@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8385Iq3PFW+GuBZcnh52GuT2FsqYJMVqcCP9zjkSrtcC6on8TavCKPz2RvyIo8lAAYnjcPrOdXTGIhGe6JgUsw==",
+  "dgSpecHash": "cY4WNX9bH5GrpLipRjiX9X+Lc9HLHlU0H5xKhbNijiqoxYfdMT5PZ4e4AmW5FOhIRFD9ENPL55AuJcJOqpPaaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lukas\\Desktop\\Day3\\Day3.csproj",
+  "projectFilePath": "H:\\Github\\AdventOfCode2020\\Day3.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

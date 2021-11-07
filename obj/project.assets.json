@@ -8,21 +8,17 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lukas\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\lukas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukas\\Desktop\\Day3\\Day3.csproj",
+      "projectUniqueName": "H:\\Github\\AdventOfCode2020\\Day3.csproj",
       "projectName": "Day3",
-      "projectPath": "C:\\Users\\lukas\\Desktop\\Day3\\Day3.csproj",
+      "projectPath": "H:\\Github\\AdventOfCode2020\\Day3.csproj",
       "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukas\\Desktop\\Day3\\obj\\",
+      "outputPath": "H:\\Github\\AdventOfCode2020\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
