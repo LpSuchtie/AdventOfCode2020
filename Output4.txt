@@ -1,0 +1,2646 @@
+Input: hcl:#6b5442 ecl:brn iyr:2019 pid:637485594 hgt:171cm eyr:2021 byr:1986 
+hcl: #6b5442 | Result: Passed
+ecl: brn | Result: Passed
+iyr: 2019 | Result: Passed
+pid: 637485594 | Result: Passed
+hgt: 171cm | Result: Passed
+eyr: 2021 | Result: Passed
+byr: 1986 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: eyr:2025 iyr:1938 byr:2014 hcl:#341e13 hgt:66cm pid:70195175 
+eyr: 2025 | Result: Passed
+iyr: 1938 | Result: Failed
+byr: 2014 | Result: Failed
+hcl: #341e13 | Result: Passed
+hgt: 66cm | Result: Failed
+pid: 70195175 | Result: Failed
+Validation Result: Failed | Result: viivii
+_________________
+Input: hcl:#efcc98 iyr:2011 ecl:hzl eyr:2020 hgt:174cm pid:589700330 
+hcl: #efcc98 | Result: Passed
+iyr: 2011 | Result: Passed
+ecl: hzl | Result: Passed
+eyr: 2020 | Result: Passed
+hgt: 174cm | Result: Passed
+pid: 589700330 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: hcl:#bba027 eyr:2027 cid:54 ecl:brn pid:153cm iyr:2028 hgt:173cm byr:2004 
+hcl: #bba027 | Result: Passed
+eyr: 2027 | Result: Passed
+cid: 54 | Result: Failed
+ecl: brn | Result: Passed
+pid: 153cm | Result: Failed
+iyr: 2028 | Result: Failed
+hgt: 173cm | Result: Passed
+byr: 2004 | Result: Failed
+Validation Result: Failed | Result: vvviivi
+_________________
+Input: hcl:b45cec iyr:2011 ecl:oth hgt:185cm eyr:2029 pid:178cm 
+hcl: b45cec | Result: Failed
+iyr: 2011 | Result: Passed
+ecl: oth | Result: Passed
+hgt: 185cm | Result: Passed
+eyr: 2029 | Result: Passed
+pid: 178cm | Result: Failed
+Validation Result: Failed | Result: ivvvvi
+_________________
+Input: hgt:185cm iyr:2016 eyr:2029 hcl:#888785 pid:026540921 
+hgt: 185cm | Result: Passed
+iyr: 2016 | Result: Passed
+eyr: 2029 | Result: Passed
+hcl: #888785 | Result: Passed
+pid: 026540921 | Result: Passed
+Validation Result: Failed | Result: vvvvv
+_________________
+Input: eyr:2025 hcl:6962f7 byr:2015 ecl:oth iyr:1974 hgt:191cm pid:2616015 
+eyr: 2025 | Result: Passed
+hcl: 6962f7 | Result: Failed
+byr: 2015 | Result: Failed
+ecl: oth | Result: Passed
+iyr: 1974 | Result: Failed
+hgt: 191cm | Result: Passed
+pid: 2616015 | Result: Failed
+Validation Result: Failed | Result: viivivi
+_________________
+Input: pid:268398556 iyr:2019 ecl:grn eyr:2027 byr:1951 hcl:#18171d hgt:67cm 
+pid: 268398556 | Result: Passed
+iyr: 2019 | Result: Passed
+ecl: grn | Result: Passed
+eyr: 2027 | Result: Passed
+byr: 1951 | Result: Passed
+hcl: #18171d | Result: Passed
+hgt: 67cm | Result: Failed
+Validation Result: Failed | Result: vvvvvvi
+_________________
+Input: eyr:2029 hgt:153cm ecl:brn pid:183179186 byr:2013 hcl:#623a2f iyr:1957 
+eyr: 2029 | Result: Passed
+hgt: 153cm | Result: Passed
+ecl: brn | Result: Passed
+pid: 183179186 | Result: Passed
+byr: 2013 | Result: Failed
+hcl: #623a2f | Result: Passed
+iyr: 1957 | Result: Failed
+Validation Result: Failed | Result: vvvvivi
+_________________
+Input: cid:121 iyr:1922 hcl:752fbc pid:79577560 byr:2025 hgt:61cm eyr:1971 
+cid: 121 | Result: Failed
+iyr: 1922 | Result: Failed
+hcl: 752fbc | Result: Failed
+pid: 79577560 | Result: Failed
+byr: 2025 | Result: Failed
+hgt: 61cm | Result: Failed
+eyr: 1971 | Result: Failed
+Validation Result: Failed | Result: iiiiii
+_________________
+Input: iyr:2016 eyr:2024 hcl:#18171d hgt:184cm ecl:hzl byr:1992 pid:751161201 
+iyr: 2016 | Result: Passed
+eyr: 2024 | Result: Passed
+hcl: #18171d | Result: Passed
+hgt: 184cm | Result: Passed
+ecl: hzl | Result: Passed
+byr: 1992 | Result: Passed
+pid: 751161201 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: eyr:2021 ecl:blu byr:1938 iyr:2016 hcl:#b6652a pid:313406514 hgt:191cm 
+eyr: 2021 | Result: Passed
+ecl: blu | Result: Passed
+byr: 1938 | Result: Passed
+iyr: 2016 | Result: Passed
+hcl: #b6652a | Result: Passed
+pid: 313406514 | Result: Passed
+hgt: 191cm | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hcl:#623a2f eyr:2021 ecl:brn pid:145249653 hgt:167cm iyr:2019 byr:1991 
+hcl: #623a2f | Result: Passed
+eyr: 2021 | Result: Passed
+ecl: brn | Result: Passed
+pid: 145249653 | Result: Passed
+hgt: 167cm | Result: Passed
+iyr: 2019 | Result: Passed
+byr: 1991 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: iyr:2022 pid:175cm byr:2021 eyr:2027 ecl:#f615b1 hgt:172in hcl:#ceb3a1 
+iyr: 2022 | Result: Failed
+pid: 175cm | Result: Failed
+byr: 2021 | Result: Failed
+eyr: 2027 | Result: Passed
+ecl: #f615b1 | Result: Failed
+hgt: 172in | Result: Failed
+hcl: #ceb3a1 | Result: Passed
+Validation Result: Failed | Result: iiiviiv
+_________________
+Input: hgt:173in ecl:#0cba5e pid:1885981567 iyr:1968 byr:1952 eyr:1942 
+hgt: 173in | Result: Failed
+ecl: #0cba5e | Result: Failed
+pid: 1885981567 | Result: Passed
+iyr: 1968 | Result: Failed
+byr: 1952 | Result: Passed
+eyr: 1942 | Result: Failed
+Validation Result: Failed | Result: iivivi
+_________________
+Input: ecl:oth eyr:2023 hgt:65cm pid:521737908 byr:1971 hcl:z iyr:2017 
+ecl: oth | Result: Passed
+eyr: 2023 | Result: Passed
+hgt: 65cm | Result: Failed
+pid: 521737908 | Result: Passed
+byr: 1971 | Result: Passed
+hcl: z | Result: Failed
+iyr: 2017 | Result: Passed
+Validation Result: Failed | Result: vvivviv
+_________________
+Input: byr:1936 hcl:#cfa07d ecl:brn iyr:2011 pid:589047874 eyr:2025 
+byr: 1936 | Result: Passed
+hcl: #cfa07d | Result: Passed
+ecl: brn | Result: Passed
+iyr: 2011 | Result: Passed
+pid: 589047874 | Result: Passed
+eyr: 2025 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: hcl:#fffffd pid:912552538 cid:159 hgt:160cm iyr:2012 eyr:2023 ecl:hzl byr:1946 
+hcl: #fffffd | Result: Passed
+pid: 912552538 | Result: Passed
+cid: 159 | Result: Failed
+hgt: 160cm | Result: Passed
+iyr: 2012 | Result: Passed
+eyr: 2023 | Result: Passed
+ecl: hzl | Result: Passed
+byr: 1946 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: iyr:2015 ecl:amb hgt:72in cid:59 pid:782818257 hcl:#18171d eyr:2026 byr:1952 
+iyr: 2015 | Result: Passed
+ecl: amb | Result: Passed
+hgt: 72in | Result: Passed
+cid: 59 | Result: Failed
+pid: 782818257 | Result: Passed
+hcl: #18171d | Result: Passed
+eyr: 2026 | Result: Passed
+byr: 1952 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:173cm iyr:2018 cid:96 ecl:amb byr:1986 pid:783160698 eyr:2026 hcl:#602927 
+hgt: 173cm | Result: Passed
+iyr: 2018 | Result: Passed
+cid: 96 | Result: Failed
+ecl: amb | Result: Passed
+byr: 1986 | Result: Passed
+pid: 783160698 | Result: Passed
+eyr: 2026 | Result: Passed
+hcl: #602927 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hcl:#a97842 cid:199 pid:912273414 eyr:2030 hgt:171cm ecl:hzl iyr:2011 byr:1960 
+hcl: #a97842 | Result: Passed
+cid: 199 | Result: Failed
+pid: 912273414 | Result: Passed
+eyr: 2030 | Result: Passed
+hgt: 171cm | Result: Passed
+ecl: hzl | Result: Passed
+iyr: 2011 | Result: Passed
+byr: 1960 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: ecl:amb hgt:156cm iyr:2013 hcl:#ceb3a1 cid:116 pid:567057004 byr:1942 eyr:2029 
+ecl: amb | Result: Passed
+hgt: 156cm | Result: Passed
+iyr: 2013 | Result: Passed
+hcl: #ceb3a1 | Result: Passed
+cid: 116 | Result: Failed
+pid: 567057004 | Result: Passed
+byr: 1942 | Result: Passed
+eyr: 2029 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: ecl:#cddc40 pid:045090966 cid:254 hgt:75in hcl:#733820 eyr:2026 byr:1956 iyr:2015 
+ecl: #cddc40 | Result: Failed
+pid: 045090966 | Result: Passed
+cid: 254 | Result: Failed
+hgt: 75in | Result: Passed
+hcl: #733820 | Result: Passed
+eyr: 2026 | Result: Passed
+byr: 1956 | Result: Passed
+iyr: 2015 | Result: Passed
+Validation Result: Failed | Result: ivvvvvv
+_________________
+Input: pid:156cm eyr:2040 hgt:176cm ecl:#02e67d hcl:b7c0e6 iyr:1959 cid:129 byr:2022 
+pid: 156cm | Result: Failed
+eyr: 2040 | Result: Failed
+hgt: 176cm | Result: Passed
+ecl: #02e67d | Result: Failed
+hcl: b7c0e6 | Result: Failed
+iyr: 1959 | Result: Failed
+cid: 129 | Result: Failed
+byr: 2022 | Result: Failed
+Validation Result: Failed | Result: iiviiii
+_________________
+Input: hgt:160cm byr:1933 ecl:blu eyr:2029 iyr:2012 hcl:#888785 pid:028571975 
+hgt: 160cm | Result: Passed
+byr: 1933 | Result: Passed
+ecl: blu | Result: Passed
+eyr: 2029 | Result: Passed
+iyr: 2012 | Result: Passed
+hcl: #888785 | Result: Passed
+pid: 028571975 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: iyr:2017 hcl:#390f37 hgt:171cm ecl:brn byr:1931 pid:015365720 eyr:2030 
+iyr: 2017 | Result: Passed
+hcl: #390f37 | Result: Passed
+hgt: 171cm | Result: Passed
+ecl: brn | Result: Passed
+byr: 1931 | Result: Passed
+pid: 015365720 | Result: Passed
+eyr: 2030 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: iyr:2014 pid:697057757 eyr:2026 hgt:188cm ecl:gry byr:1926 
+iyr: 2014 | Result: Passed
+pid: 697057757 | Result: Passed
+eyr: 2026 | Result: Passed
+hgt: 188cm | Result: Passed
+ecl: gry | Result: Passed
+byr: 1926 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: pid:484310015 hcl:#fffffd hgt:150cm iyr:2018 cid:53 ecl:gry eyr:2021 byr:1957 
+pid: 484310015 | Result: Passed
+hcl: #fffffd | Result: Passed
+hgt: 150cm | Result: Passed
+iyr: 2018 | Result: Passed
+cid: 53 | Result: Failed
+ecl: gry | Result: Passed
+eyr: 2021 | Result: Passed
+byr: 1957 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:156cm eyr:2026 byr:1963 pid:063272603 ecl:brn iyr:2011 hcl:#888785 
+hgt: 156cm | Result: Passed
+eyr: 2026 | Result: Passed
+byr: 1963 | Result: Passed
+pid: 063272603 | Result: Passed
+ecl: brn | Result: Passed
+iyr: 2011 | Result: Passed
+hcl: #888785 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:1955 pid:310518398 hgt:191cm iyr:2018 ecl:oth eyr:2023 cid:132 hcl:#888785 
+byr: 1955 | Result: Passed
+pid: 310518398 | Result: Passed
+hgt: 191cm | Result: Passed
+iyr: 2018 | Result: Passed
+ecl: oth | Result: Passed
+eyr: 2023 | Result: Passed
+cid: 132 | Result: Failed
+hcl: #888785 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:1938 hcl:#623a2f eyr:2023 iyr:2010 hgt:165cm pid:170304863 cid:290 ecl:amb 
+byr: 1938 | Result: Passed
+hcl: #623a2f | Result: Passed
+eyr: 2023 | Result: Passed
+iyr: 2010 | Result: Passed
+hgt: 165cm | Result: Passed
+pid: 170304863 | Result: Passed
+cid: 290 | Result: Failed
+ecl: amb | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: eyr:2026 pid:021468065 hgt:164cm byr:1996 iyr:2016 hcl:#18171d ecl:brn 
+eyr: 2026 | Result: Passed
+pid: 021468065 | Result: Passed
+hgt: 164cm | Result: Passed
+byr: 1996 | Result: Passed
+iyr: 2016 | Result: Passed
+hcl: #18171d | Result: Passed
+ecl: brn | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:2027 ecl:oth pid:8258823391 hgt:153in hcl:#733820 eyr:1948 
+byr: 2027 | Result: Failed
+ecl: oth | Result: Passed
+pid: 8258823391 | Result: Passed
+hgt: 153in | Result: Failed
+hcl: #733820 | Result: Passed
+eyr: 1948 | Result: Failed
+Validation Result: Failed | Result: ivvivi
+_________________
+Input: byr:2026 ecl:#cd275a iyr:2012 eyr:2036 pid:5917499975 
+byr: 2026 | Result: Failed
+ecl: #cd275a | Result: Failed
+iyr: 2012 | Result: Passed
+eyr: 2036 | Result: Failed
+pid: 5917499975 | Result: Passed
+Validation Result: Failed | Result: iiviv
+_________________
+Input: byr:2004 cid:151 hcl:99ecb1 eyr:2033 pid:871137711 iyr:1997 hgt:184cm ecl:oth 
+byr: 2004 | Result: Failed
+cid: 151 | Result: Failed
+hcl: 99ecb1 | Result: Failed
+eyr: 2033 | Result: Failed
+pid: 871137711 | Result: Passed
+iyr: 1997 | Result: Failed
+hgt: 184cm | Result: Passed
+ecl: oth | Result: Passed
+Validation Result: Failed | Result: iiivivv
+_________________
+Input: byr:2011 hcl:z ecl:#eee1d2 hgt:59cm eyr:1925 iyr:2030 pid:#02ee78 
+byr: 2011 | Result: Failed
+hcl: z | Result: Failed
+ecl: #eee1d2 | Result: Failed
+hgt: 59cm | Result: Failed
+eyr: 1925 | Result: Failed
+iyr: 2030 | Result: Failed
+pid: #02ee78 | Result: Failed
+Validation Result: Failed | Result: iiiiiii
+_________________
+Input: pid:742658992 hcl:#888785 byr:1995 eyr:2024 hgt:162cm iyr:2013 cid:169 ecl:gry 
+pid: 742658992 | Result: Passed
+hcl: #888785 | Result: Passed
+byr: 1995 | Result: Passed
+eyr: 2024 | Result: Passed
+hgt: 162cm | Result: Passed
+iyr: 2013 | Result: Passed
+cid: 169 | Result: Failed
+ecl: gry | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:152cm byr:1946 eyr:2027 iyr:2018 pid:352799678 hcl:#238da0 ecl:amb cid:71 
+hgt: 152cm | Result: Passed
+byr: 1946 | Result: Passed
+eyr: 2027 | Result: Passed
+iyr: 2018 | Result: Passed
+pid: 352799678 | Result: Passed
+hcl: #238da0 | Result: Passed
+ecl: amb | Result: Passed
+cid: 71 | Result: Failed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hcl:#623a2f pid:723616064 eyr:2021 hgt:172cm byr:1926 iyr:2013 ecl:grn 
+hcl: #623a2f | Result: Passed
+pid: 723616064 | Result: Passed
+eyr: 2021 | Result: Passed
+hgt: 172cm | Result: Passed
+byr: 1926 | Result: Passed
+iyr: 2013 | Result: Passed
+ecl: grn | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: iyr:2019 hgt:94 byr:2028 eyr:1986 pid:#ee7f00 
+iyr: 2019 | Result: Passed
+hgt: 94 | Result: Failed
+byr: 2028 | Result: Failed
+eyr: 1986 | Result: Failed
+pid: #ee7f00 | Result: Failed
+Validation Result: Failed | Result: viii
+_________________
+Input: ecl:amb eyr:2027 pid:188153423 byr:1957 hcl:#d67ae1 iyr:2011 hgt:183cm 
+ecl: amb | Result: Passed
+eyr: 2027 | Result: Passed
+pid: 188153423 | Result: Passed
+byr: 1957 | Result: Passed
+hcl: #d67ae1 | Result: Passed
+iyr: 2011 | Result: Passed
+hgt: 183cm | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:1950 ecl:#e2495d iyr:2010 hgt:166cm eyr:2034 pid:151457075 
+byr: 1950 | Result: Passed
+ecl: #e2495d | Result: Failed
+iyr: 2010 | Result: Passed
+hgt: 166cm | Result: Passed
+eyr: 2034 | Result: Failed
+pid: 151457075 | Result: Passed
+Validation Result: Failed | Result: vivviv
+_________________
+Input: eyr:1981 byr:2016 iyr:2029 pid:153cm ecl:#55c2a4 hcl:z hgt:76cm 
+eyr: 1981 | Result: Failed
+byr: 2016 | Result: Failed
+iyr: 2029 | Result: Failed
+pid: 153cm | Result: Failed
+ecl: #55c2a4 | Result: Failed
+hcl: z | Result: Failed
+hgt: 76cm | Result: Failed
+Validation Result: Failed | Result: iiiiiii
+_________________
+Input: hgt:184cm ecl:amb eyr:2021 hcl:#623a2f pid:414607669 iyr:1960 byr:2002 
+hgt: 184cm | Result: Passed
+ecl: amb | Result: Passed
+eyr: 2021 | Result: Passed
+hcl: #623a2f | Result: Passed
+pid: 414607669 | Result: Passed
+iyr: 1960 | Result: Failed
+byr: 2002 | Result: Passed
+Validation Result: Failed | Result: vvvvviv
+_________________
+Input: eyr:2027 iyr:2020 hgt:179cm byr:1991 pid:969568248 ecl:blu 
+eyr: 2027 | Result: Passed
+iyr: 2020 | Result: Passed
+hgt: 179cm | Result: Passed
+byr: 1991 | Result: Passed
+pid: 969568248 | Result: Passed
+ecl: blu | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: hgt:175cm pid:536803427 hcl:#a97842 iyr:2012 ecl:grn byr:1950 eyr:2027 
+hgt: 175cm | Result: Passed
+pid: 536803427 | Result: Passed
+hcl: #a97842 | Result: Passed
+iyr: 2012 | Result: Passed
+ecl: grn | Result: Passed
+byr: 1950 | Result: Passed
+eyr: 2027 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: eyr:2028 hgt:60in hcl:#733820 iyr:2018 ecl:oth pid:871909483 byr:1930 
+eyr: 2028 | Result: Passed
+hgt: 60in | Result: Passed
+hcl: #733820 | Result: Passed
+iyr: 2018 | Result: Passed
+ecl: oth | Result: Passed
+pid: 871909483 | Result: Passed
+byr: 1930 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:155cm iyr:2020 byr:1960 eyr:2021 pid:515710074 ecl:amb hcl:#341e13 
+hgt: 155cm | Result: Passed
+iyr: 2020 | Result: Passed
+byr: 1960 | Result: Passed
+eyr: 2021 | Result: Passed
+pid: 515710074 | Result: Passed
+ecl: amb | Result: Passed
+hcl: #341e13 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:1922 hcl:z iyr:1977 ecl:brn eyr:2023 hgt:119 pid:865700639 
+byr: 1922 | Result: Passed
+hcl: z | Result: Failed
+iyr: 1977 | Result: Failed
+ecl: brn | Result: Passed
+eyr: 2023 | Result: Passed
+hgt: 119 | Result: Failed
+pid: 865700639 | Result: Passed
+Validation Result: Failed | Result: viivvv
+_________________
+Input: ecl:gry hcl:959fcd pid:#633ac1 byr:2011 hgt:68in eyr:2020 
+ecl: gry | Result: Passed
+hcl: 959fcd | Result: Failed
+pid: #633ac1 | Result: Failed
+byr: 2011 | Result: Failed
+hgt: 68in | Result: Passed
+eyr: 2020 | Result: Passed
+Validation Result: Failed | Result: viiivv
+_________________
+Input: iyr:1972 hcl:z cid:149 byr:2020 hgt:166in pid:4548657 eyr:1960 ecl:#cc987c 
+iyr: 1972 | Result: Failed
+hcl: z | Result: Failed
+cid: 149 | Result: Failed
+byr: 2020 | Result: Failed
+hgt: 166in | Result: Failed
+pid: 4548657 | Result: Failed
+eyr: 1960 | Result: Failed
+ecl: #cc987c | Result: Failed
+Validation Result: Failed | Result: iiiiiii
+_________________
+Input: eyr:2023 hcl:#b6652a iyr:2015 hgt:187in pid:547953710 byr:1979 ecl:grn 
+eyr: 2023 | Result: Passed
+hcl: #b6652a | Result: Passed
+iyr: 2015 | Result: Passed
+hgt: 187in | Result: Failed
+pid: 547953710 | Result: Passed
+byr: 1979 | Result: Passed
+ecl: grn | Result: Passed
+Validation Result: Failed | Result: vvvivvv
+_________________
+Input: iyr:2018 pid:508691429 ecl:oth eyr:2025 hgt:187cm cid:270 hcl:#888785 byr:1977 
+iyr: 2018 | Result: Passed
+pid: 508691429 | Result: Passed
+ecl: oth | Result: Passed
+eyr: 2025 | Result: Passed
+hgt: 187cm | Result: Passed
+cid: 270 | Result: Failed
+hcl: #888785 | Result: Passed
+byr: 1977 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:168cm eyr:2032 byr:2020 ecl:gry iyr:1982 hcl:z pid:648015564 
+hgt: 168cm | Result: Passed
+eyr: 2032 | Result: Failed
+byr: 2020 | Result: Failed
+ecl: gry | Result: Passed
+iyr: 1982 | Result: Failed
+hcl: z | Result: Failed
+pid: 648015564 | Result: Passed
+Validation Result: Failed | Result: viiviiv
+_________________
+Input: hcl:#fffffd pid:911858643 iyr:2016 ecl:gry eyr:2030 byr:1992 hgt:156cm 
+hcl: #fffffd | Result: Passed
+pid: 911858643 | Result: Passed
+iyr: 2016 | Result: Passed
+ecl: gry | Result: Passed
+eyr: 2030 | Result: Passed
+byr: 1992 | Result: Passed
+hgt: 156cm | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: pid:241562994 eyr:2026 ecl:grn hgt:164cm hcl:#c0946f byr:1945 iyr:2015 cid:296 
+pid: 241562994 | Result: Passed
+eyr: 2026 | Result: Passed
+ecl: grn | Result: Passed
+hgt: 164cm | Result: Passed
+hcl: #c0946f | Result: Passed
+byr: 1945 | Result: Passed
+iyr: 2015 | Result: Passed
+cid: 296 | Result: Failed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:1976 pid:269322775 ecl:hzl hgt:162cm hcl:#b6652a eyr:2022 cid:335 iyr:2012 
+byr: 1976 | Result: Passed
+pid: 269322775 | Result: Passed
+ecl: hzl | Result: Passed
+hgt: 162cm | Result: Passed
+hcl: #b6652a | Result: Passed
+eyr: 2022 | Result: Passed
+cid: 335 | Result: Failed
+iyr: 2012 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: eyr:2028 hgt:106 pid:268626219 hcl:#a97842 iyr:2011 ecl:grn byr:1967 
+eyr: 2028 | Result: Passed
+hgt: 106 | Result: Failed
+pid: 268626219 | Result: Passed
+hcl: #a97842 | Result: Passed
+iyr: 2011 | Result: Passed
+ecl: grn | Result: Passed
+byr: 1967 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: iyr:2016 hcl:#888785 hgt:193cm ecl:oth pid:034099334 eyr:2027 byr:1945 cid:181 
+iyr: 2016 | Result: Passed
+hcl: #888785 | Result: Passed
+hgt: 193cm | Result: Passed
+ecl: oth | Result: Passed
+pid: 034099334 | Result: Passed
+eyr: 2027 | Result: Passed
+byr: 1945 | Result: Passed
+cid: 181 | Result: Failed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: pid:248319556 byr:1987 iyr:2010 cid:122 ecl:utc hcl:z hgt:190cm eyr:2030 
+pid: 248319556 | Result: Passed
+byr: 1987 | Result: Passed
+iyr: 2010 | Result: Passed
+cid: 122 | Result: Failed
+ecl: utc | Result: Failed
+hcl: z | Result: Failed
+hgt: 190cm | Result: Passed
+eyr: 2030 | Result: Passed
+Validation Result: Failed | Result: vvviivv
+_________________
+Input: iyr:2019 hcl:#ceb3a1 ecl:hzl cid:281 hgt:73in byr:1992 eyr:2023 
+iyr: 2019 | Result: Passed
+hcl: #ceb3a1 | Result: Passed
+ecl: hzl | Result: Passed
+cid: 281 | Result: Failed
+hgt: 73in | Result: Passed
+byr: 1992 | Result: Passed
+eyr: 2023 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: hcl:#fffffd ecl:blu cid:340 hgt:176cm byr:1980 pid:809878309 iyr:2018 
+hcl: #fffffd | Result: Passed
+ecl: blu | Result: Passed
+cid: 340 | Result: Failed
+hgt: 176cm | Result: Passed
+byr: 1980 | Result: Passed
+pid: 809878309 | Result: Passed
+iyr: 2018 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: hgt:167cm hcl:#866857 byr:1973 cid:143 eyr:2030 iyr:2012 ecl:hzl pid:168618514 
+hgt: 167cm | Result: Passed
+hcl: #866857 | Result: Passed
+byr: 1973 | Result: Passed
+cid: 143 | Result: Failed
+eyr: 2030 | Result: Passed
+iyr: 2012 | Result: Passed
+ecl: hzl | Result: Passed
+pid: 168618514 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hcl:c97d76 iyr:2016 pid:8439355994 byr:2013 eyr:2036 hgt:71cm cid:116 ecl:#055b62 
+hcl: c97d76 | Result: Failed
+iyr: 2016 | Result: Passed
+pid: 8439355994 | Result: Passed
+byr: 2013 | Result: Failed
+eyr: 2036 | Result: Failed
+hgt: 71cm | Result: Failed
+cid: 116 | Result: Failed
+ecl: #055b62 | Result: Failed
+Validation Result: Failed | Result: ivviiii
+_________________
+Input: hcl:#341e13 pid:961548527 eyr:2027 hgt:192cm byr:1940 iyr:2011 ecl:oth 
+hcl: #341e13 | Result: Passed
+pid: 961548527 | Result: Passed
+eyr: 2027 | Result: Passed
+hgt: 192cm | Result: Passed
+byr: 1940 | Result: Passed
+iyr: 2011 | Result: Passed
+ecl: oth | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:1935 hgt:189cm ecl:brn iyr:2012 eyr:2028 hcl:#602927 
+byr: 1935 | Result: Passed
+hgt: 189cm | Result: Passed
+ecl: brn | Result: Passed
+iyr: 2012 | Result: Passed
+eyr: 2028 | Result: Passed
+hcl: #602927 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: byr:2024 eyr:1939 iyr:2020 hgt:140 pid:889951037 hcl:#b6652a ecl:blu 
+byr: 2024 | Result: Failed
+eyr: 1939 | Result: Failed
+iyr: 2020 | Result: Passed
+hgt: 140 | Result: Failed
+pid: 889951037 | Result: Passed
+hcl: #b6652a | Result: Passed
+ecl: blu | Result: Passed
+Validation Result: Failed | Result: iivvvv
+_________________
+Input: ecl:amb byr:1942 iyr:2012 pid:161703003 hgt:181cm eyr:2027 hcl:#602927 
+ecl: amb | Result: Passed
+byr: 1942 | Result: Passed
+iyr: 2012 | Result: Passed
+pid: 161703003 | Result: Passed
+hgt: 181cm | Result: Passed
+eyr: 2027 | Result: Passed
+hcl: #602927 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hcl:#18171d iyr:2015 byr:1935 cid:204 ecl:gry hgt:180cm eyr:2025 pid:988699528 
+hcl: #18171d | Result: Passed
+iyr: 2015 | Result: Passed
+byr: 1935 | Result: Passed
+cid: 204 | Result: Failed
+ecl: gry | Result: Passed
+hgt: 180cm | Result: Passed
+eyr: 2025 | Result: Passed
+pid: 988699528 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: eyr:2025 byr:1985 cid:192 hcl:#866857 hgt:150cm pid:315179208 iyr:2010 ecl:blu 
+eyr: 2025 | Result: Passed
+byr: 1985 | Result: Passed
+cid: 192 | Result: Failed
+hcl: #866857 | Result: Passed
+hgt: 150cm | Result: Passed
+pid: 315179208 | Result: Passed
+iyr: 2010 | Result: Passed
+ecl: blu | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hcl:#341e13 iyr:2013 eyr:2021 cid:62 byr:1928 hgt:168cm pid:862861470 ecl:hzl 
+hcl: #341e13 | Result: Passed
+iyr: 2013 | Result: Passed
+eyr: 2021 | Result: Passed
+cid: 62 | Result: Failed
+byr: 1928 | Result: Passed
+hgt: 168cm | Result: Passed
+pid: 862861470 | Result: Passed
+ecl: hzl | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: pid:099158408 ecl:grn eyr:2026 iyr:2018 hcl:#b6652a cid:81 hgt:185cm byr:1964 
+pid: 099158408 | Result: Passed
+ecl: grn | Result: Passed
+eyr: 2026 | Result: Passed
+iyr: 2018 | Result: Passed
+hcl: #b6652a | Result: Passed
+cid: 81 | Result: Failed
+hgt: 185cm | Result: Passed
+byr: 1964 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:1990 hgt:155cm ecl:brn eyr:2023 hcl:#ceb3a1 iyr:2012 
+byr: 1990 | Result: Passed
+hgt: 155cm | Result: Passed
+ecl: brn | Result: Passed
+eyr: 2023 | Result: Passed
+hcl: #ceb3a1 | Result: Passed
+iyr: 2012 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: ecl:brn eyr:2026 cid:242 pid:658930205 hgt:176cm byr:1990 iyr:2016 hcl:#d55f68 
+ecl: brn | Result: Passed
+eyr: 2026 | Result: Passed
+cid: 242 | Result: Failed
+pid: 658930205 | Result: Passed
+hgt: 176cm | Result: Passed
+byr: 1990 | Result: Passed
+iyr: 2016 | Result: Passed
+hcl: #d55f68 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hcl:#602927 pid:924899781 eyr:2024 byr:1964 iyr:2019 cid:163 hgt:181cm ecl:gry 
+hcl: #602927 | Result: Passed
+pid: 924899781 | Result: Passed
+eyr: 2024 | Result: Passed
+byr: 1964 | Result: Passed
+iyr: 2019 | Result: Passed
+cid: 163 | Result: Failed
+hgt: 181cm | Result: Passed
+ecl: gry | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: eyr:2026 ecl:blu pid:8812414708 iyr:2017 hcl:#a97842 hgt:190cm byr:1970 
+eyr: 2026 | Result: Passed
+ecl: blu | Result: Passed
+pid: 8812414708 | Result: Passed
+iyr: 2017 | Result: Passed
+hcl: #a97842 | Result: Passed
+hgt: 190cm | Result: Passed
+byr: 1970 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:152cm pid:403682313 iyr:2019 hcl:#ceb3a1 ecl:oth eyr:2021 byr:1957 
+hgt: 152cm | Result: Passed
+pid: 403682313 | Result: Passed
+iyr: 2019 | Result: Passed
+hcl: #ceb3a1 | Result: Passed
+ecl: oth | Result: Passed
+eyr: 2021 | Result: Passed
+byr: 1957 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: pid:23799214 byr:2030 hgt:66cm iyr:2022 hcl:z ecl:#c806fe eyr:2035 
+pid: 23799214 | Result: Failed
+byr: 2030 | Result: Failed
+hgt: 66cm | Result: Failed
+iyr: 2022 | Result: Failed
+hcl: z | Result: Failed
+ecl: #c806fe | Result: Failed
+eyr: 2035 | Result: Failed
+Validation Result: Failed | Result: iiiiiii
+_________________
+Input: eyr:2022 hgt:177cm byr:1967 cid:194 pid:060293594 ecl:brn iyr:2016 hcl:#cfa07d 
+eyr: 2022 | Result: Passed
+hgt: 177cm | Result: Passed
+byr: 1967 | Result: Passed
+cid: 194 | Result: Failed
+pid: 060293594 | Result: Passed
+ecl: brn | Result: Passed
+iyr: 2016 | Result: Passed
+hcl: #cfa07d | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:184cm hcl:#6b5442 eyr:2029 ecl:oth iyr:2013 pid:26983291 byr:1965 cid:147 
+hgt: 184cm | Result: Passed
+hcl: #6b5442 | Result: Passed
+eyr: 2029 | Result: Passed
+ecl: oth | Result: Passed
+iyr: 2013 | Result: Passed
+pid: 26983291 | Result: Failed
+byr: 1965 | Result: Passed
+cid: 147 | Result: Failed
+Validation Result: Failed | Result: vvvvviv
+_________________
+Input: pid:255519852 byr:1975 hgt:192cm ecl:lzr iyr:2015 eyr:2030 hcl:#623a2f 
+pid: 255519852 | Result: Passed
+byr: 1975 | Result: Passed
+hgt: 192cm | Result: Passed
+ecl: lzr | Result: Failed
+iyr: 2015 | Result: Passed
+eyr: 2030 | Result: Passed
+hcl: #623a2f | Result: Passed
+Validation Result: Failed | Result: vvvivvv
+_________________
+Input: iyr:2010 ecl:blu hcl:#881267 hgt:162cm pid:121130250 byr:1935 cid:57 eyr:2025 
+iyr: 2010 | Result: Passed
+ecl: blu | Result: Passed
+hcl: #881267 | Result: Passed
+hgt: 162cm | Result: Passed
+pid: 121130250 | Result: Passed
+byr: 1935 | Result: Passed
+cid: 57 | Result: Failed
+eyr: 2025 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:189cm hcl:#a97842 iyr:2014 eyr:2024 ecl:brn pid:972960330 
+hgt: 189cm | Result: Passed
+hcl: #a97842 | Result: Passed
+iyr: 2014 | Result: Passed
+eyr: 2024 | Result: Passed
+ecl: brn | Result: Passed
+pid: 972960330 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: hcl:#623a2f eyr:2026 hgt:193cm cid:87 byr:1982 iyr:2020 pid:158154062 ecl:amb 
+hcl: #623a2f | Result: Passed
+eyr: 2026 | Result: Passed
+hgt: 193cm | Result: Passed
+cid: 87 | Result: Failed
+byr: 1982 | Result: Passed
+iyr: 2020 | Result: Passed
+pid: 158154062 | Result: Passed
+ecl: amb | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: eyr:2025 hgt:191cm ecl:amb hcl:#341e13 pid:137048981 iyr:2016 byr:1950 
+eyr: 2025 | Result: Passed
+hgt: 191cm | Result: Passed
+ecl: amb | Result: Passed
+hcl: #341e13 | Result: Passed
+pid: 137048981 | Result: Passed
+iyr: 2016 | Result: Passed
+byr: 1950 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:1930 eyr:2029 ecl:hzl hgt:75in pid:464272185 cid:341 iyr:2012 hcl:#c0946f 
+byr: 1930 | Result: Passed
+eyr: 2029 | Result: Passed
+ecl: hzl | Result: Passed
+hgt: 75in | Result: Passed
+pid: 464272185 | Result: Passed
+cid: 341 | Result: Failed
+iyr: 2012 | Result: Passed
+hcl: #c0946f | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: ecl:brn pid:952709301 byr:1926 hcl:#c0946f eyr:2028 hgt:170cm 
+ecl: brn | Result: Passed
+pid: 952709301 | Result: Passed
+byr: 1926 | Result: Passed
+hcl: #c0946f | Result: Passed
+eyr: 2028 | Result: Passed
+hgt: 170cm | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: pid:578940518 byr:2025 hgt:190in iyr:2030 cid:52 ecl:amb eyr:2027 
+pid: 578940518 | Result: Passed
+byr: 2025 | Result: Failed
+hgt: 190in | Result: Failed
+iyr: 2030 | Result: Failed
+cid: 52 | Result: Failed
+ecl: amb | Result: Passed
+eyr: 2027 | Result: Passed
+Validation Result: Failed | Result: viiivv
+_________________
+Input: ecl:amb hgt:185cm cid:237 iyr:2016 pid:490377510 byr:1950 hcl:#18171d eyr:2025 
+ecl: amb | Result: Passed
+hgt: 185cm | Result: Passed
+cid: 237 | Result: Failed
+iyr: 2016 | Result: Passed
+pid: 490377510 | Result: Passed
+byr: 1950 | Result: Passed
+hcl: #18171d | Result: Passed
+eyr: 2025 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: iyr:2014 hgt:156in pid:65952131 ecl:blu byr:1938 hcl:#7d3b0c eyr:2023 
+iyr: 2014 | Result: Passed
+hgt: 156in | Result: Failed
+pid: 65952131 | Result: Failed
+ecl: blu | Result: Passed
+byr: 1938 | Result: Passed
+hcl: #7d3b0c | Result: Passed
+eyr: 2023 | Result: Passed
+Validation Result: Failed | Result: viivvvv
+_________________
+Input: ecl:gry iyr:2016 pid:818347623 hcl:#888785 eyr:2030 hgt:174cm 
+ecl: gry | Result: Passed
+iyr: 2016 | Result: Passed
+pid: 818347623 | Result: Passed
+hcl: #888785 | Result: Passed
+eyr: 2030 | Result: Passed
+hgt: 174cm | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: ecl:hzl hcl:#866857 eyr:2027 pid:213124752 hgt:179cm byr:1989 
+ecl: hzl | Result: Passed
+hcl: #866857 | Result: Passed
+eyr: 2027 | Result: Passed
+pid: 213124752 | Result: Passed
+hgt: 179cm | Result: Passed
+byr: 1989 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: pid:024846371 byr:1990 iyr:2018 eyr:2026 hgt:161cm ecl:oth 
+pid: 024846371 | Result: Passed
+byr: 1990 | Result: Passed
+iyr: 2018 | Result: Passed
+eyr: 2026 | Result: Passed
+hgt: 161cm | Result: Passed
+ecl: oth | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: hcl:z hgt:129 iyr:2016 eyr:2034 pid:#b85e75 byr:2026 ecl:oth 
+hcl: z | Result: Failed
+hgt: 129 | Result: Failed
+iyr: 2016 | Result: Passed
+eyr: 2034 | Result: Failed
+pid: #b85e75 | Result: Failed
+byr: 2026 | Result: Failed
+ecl: oth | Result: Passed
+Validation Result: Failed | Result: iviiiv
+_________________
+Input: hgt:192cm hcl:#602927 ecl:blu iyr:2011 pid:863613568 byr:1996 eyr:2027 
+hgt: 192cm | Result: Passed
+hcl: #602927 | Result: Passed
+ecl: blu | Result: Passed
+iyr: 2011 | Result: Passed
+pid: 863613568 | Result: Passed
+byr: 1996 | Result: Passed
+eyr: 2027 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:160cm cid:229 byr:1952 iyr:2019 ecl:#0ae2d6 eyr:2027 pid:719697407 hcl:z 
+hgt: 160cm | Result: Passed
+cid: 229 | Result: Failed
+byr: 1952 | Result: Passed
+iyr: 2019 | Result: Passed
+ecl: #0ae2d6 | Result: Failed
+eyr: 2027 | Result: Passed
+pid: 719697407 | Result: Passed
+hcl: z | Result: Failed
+Validation Result: Failed | Result: vvvivvi
+_________________
+Input: pid:040987502 cid:155 iyr:2012 hgt:173cm byr:2002 hcl:#fffffd eyr:2023 ecl:hzl 
+pid: 040987502 | Result: Passed
+cid: 155 | Result: Failed
+iyr: 2012 | Result: Passed
+hgt: 173cm | Result: Passed
+byr: 2002 | Result: Passed
+hcl: #fffffd | Result: Passed
+eyr: 2023 | Result: Passed
+ecl: hzl | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: ecl:oth byr:1993 iyr:2019 pid:319157251 hcl:#733820 hgt:70in eyr:2027 
+ecl: oth | Result: Passed
+byr: 1993 | Result: Passed
+iyr: 2019 | Result: Passed
+pid: 319157251 | Result: Passed
+hcl: #733820 | Result: Passed
+hgt: 70in | Result: Passed
+eyr: 2027 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hcl:#9d85d4 hgt:192cm pid:570514935 cid:238 eyr:2022 ecl:gry byr:1989 iyr:2016 
+hcl: #9d85d4 | Result: Passed
+hgt: 192cm | Result: Passed
+pid: 570514935 | Result: Passed
+cid: 238 | Result: Failed
+eyr: 2022 | Result: Passed
+ecl: gry | Result: Passed
+byr: 1989 | Result: Passed
+iyr: 2016 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:162cm cid:201 iyr:2015 eyr:2023 pid:553794028 byr:1922 ecl:amb hcl:#623a2f 
+hgt: 162cm | Result: Passed
+cid: 201 | Result: Failed
+iyr: 2015 | Result: Passed
+eyr: 2023 | Result: Passed
+pid: 553794028 | Result: Passed
+byr: 1922 | Result: Passed
+ecl: amb | Result: Passed
+hcl: #623a2f | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: cid:56 eyr:2024 ecl:amb hgt:179cm hcl:#efcc98 pid:665225721 iyr:2012 byr:1963 
+cid: 56 | Result: Failed
+eyr: 2024 | Result: Passed
+ecl: amb | Result: Passed
+hgt: 179cm | Result: Passed
+hcl: #efcc98 | Result: Passed
+pid: 665225721 | Result: Passed
+iyr: 2012 | Result: Passed
+byr: 1963 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:2026 hcl:#888785 iyr:1972 eyr:1980 cid:323 pid:153cm hgt:170cm ecl:blu 
+byr: 2026 | Result: Failed
+hcl: #888785 | Result: Passed
+iyr: 1972 | Result: Failed
+eyr: 1980 | Result: Failed
+cid: 323 | Result: Failed
+pid: 153cm | Result: Failed
+hgt: 170cm | Result: Passed
+ecl: blu | Result: Passed
+Validation Result: Failed | Result: iviiivv
+_________________
+Input: pid:704204892 ecl:gry eyr:2023 byr:1920 hgt:168cm iyr:2010 hcl:#3311ec 
+pid: 704204892 | Result: Passed
+ecl: gry | Result: Passed
+eyr: 2023 | Result: Passed
+byr: 1920 | Result: Passed
+hgt: 168cm | Result: Passed
+iyr: 2010 | Result: Passed
+hcl: #3311ec | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: pid:#7f3caf eyr:2023 hcl:z hgt:146 byr:1990 ecl:amb iyr:2014 cid:270 
+pid: #7f3caf | Result: Failed
+eyr: 2023 | Result: Passed
+hcl: z | Result: Failed
+hgt: 146 | Result: Failed
+byr: 1990 | Result: Passed
+ecl: amb | Result: Passed
+iyr: 2014 | Result: Passed
+cid: 270 | Result: Failed
+Validation Result: Failed | Result: ivivvv
+_________________
+Input: hgt:171cm ecl:blu pid:383695713 cid:200 iyr:2010 hcl:#602927 byr:1950 eyr:2024 
+hgt: 171cm | Result: Passed
+ecl: blu | Result: Passed
+pid: 383695713 | Result: Passed
+cid: 200 | Result: Failed
+iyr: 2010 | Result: Passed
+hcl: #602927 | Result: Passed
+byr: 1950 | Result: Passed
+eyr: 2024 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:178cm byr:1935 hcl:#2da7db pid:597509269 eyr:2020 iyr:2014 ecl:blu 
+hgt: 178cm | Result: Passed
+byr: 1935 | Result: Passed
+hcl: #2da7db | Result: Passed
+pid: 597509269 | Result: Passed
+eyr: 2020 | Result: Passed
+iyr: 2014 | Result: Passed
+ecl: blu | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: eyr:2034 ecl:#d4719a hcl:z hgt:67cm iyr:2023 pid:#268d93 byr:2006 
+eyr: 2034 | Result: Failed
+ecl: #d4719a | Result: Failed
+hcl: z | Result: Failed
+hgt: 67cm | Result: Failed
+iyr: 2023 | Result: Failed
+pid: #268d93 | Result: Failed
+byr: 2006 | Result: Failed
+Validation Result: Failed | Result: iiiiiii
+_________________
+Input: eyr:1939 pid:9942171839 hgt:104 iyr:1945 byr:2011 ecl:#f9bafb hcl:#ceb3a1 
+eyr: 1939 | Result: Failed
+pid: 9942171839 | Result: Passed
+hgt: 104 | Result: Failed
+iyr: 1945 | Result: Failed
+byr: 2011 | Result: Failed
+ecl: #f9bafb | Result: Failed
+hcl: #ceb3a1 | Result: Passed
+Validation Result: Failed | Result: iviiiv
+_________________
+Input: byr:1937 iyr:2010 pid:979528684 eyr:2028 hcl:#ceb3a1 ecl:gry hgt:164cm 
+byr: 1937 | Result: Passed
+iyr: 2010 | Result: Passed
+pid: 979528684 | Result: Passed
+eyr: 2028 | Result: Passed
+hcl: #ceb3a1 | Result: Passed
+ecl: gry | Result: Passed
+hgt: 164cm | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: iyr:2019 eyr:2022 pid:044485658 hcl:#18171d byr:1996 hgt:169cm ecl:gry 
+iyr: 2019 | Result: Passed
+eyr: 2022 | Result: Passed
+pid: 044485658 | Result: Passed
+hcl: #18171d | Result: Passed
+byr: 1996 | Result: Passed
+hgt: 169cm | Result: Passed
+ecl: gry | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: pid:031482456 eyr:2024 iyr:2015 hgt:157cm hcl:#7d3b0c byr:1921 ecl:oth 
+pid: 031482456 | Result: Passed
+eyr: 2024 | Result: Passed
+iyr: 2015 | Result: Passed
+hgt: 157cm | Result: Passed
+hcl: #7d3b0c | Result: Passed
+byr: 1921 | Result: Passed
+ecl: oth | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: pid:399398768 ecl:lzr hcl:z eyr:1983 hgt:68cm byr:2024 iyr:2027 cid:127 
+pid: 399398768 | Result: Passed
+ecl: lzr | Result: Failed
+hcl: z | Result: Failed
+eyr: 1983 | Result: Failed
+hgt: 68cm | Result: Failed
+byr: 2024 | Result: Failed
+iyr: 2027 | Result: Failed
+cid: 127 | Result: Failed
+Validation Result: Failed | Result: viiiiii
+_________________
+Input: hgt:186cm eyr:2026 pid:140032921 ecl:amb cid:278 byr:1937 iyr:2015 
+hgt: 186cm | Result: Passed
+eyr: 2026 | Result: Passed
+pid: 140032921 | Result: Passed
+ecl: amb | Result: Passed
+cid: 278 | Result: Failed
+byr: 1937 | Result: Passed
+iyr: 2015 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: hgt:172cm ecl:amb pid:718725983 hcl:#6b5442 eyr:2024 iyr:2013 byr:1974 
+hgt: 172cm | Result: Passed
+ecl: amb | Result: Passed
+pid: 718725983 | Result: Passed
+hcl: #6b5442 | Result: Passed
+eyr: 2024 | Result: Passed
+iyr: 2013 | Result: Passed
+byr: 1974 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: ecl:amb iyr:2014 cid:216 hcl:#cfa07d eyr:2022 pid:442275714 hgt:68in byr:1999 
+ecl: amb | Result: Passed
+iyr: 2014 | Result: Passed
+cid: 216 | Result: Failed
+hcl: #cfa07d | Result: Passed
+eyr: 2022 | Result: Passed
+pid: 442275714 | Result: Passed
+hgt: 68in | Result: Passed
+byr: 1999 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:152cm cid:193 iyr:2015 pid:806672342 hcl:#b6652a byr:1927 ecl:oth 
+hgt: 152cm | Result: Passed
+cid: 193 | Result: Failed
+iyr: 2015 | Result: Passed
+pid: 806672342 | Result: Passed
+hcl: #b6652a | Result: Passed
+byr: 1927 | Result: Passed
+ecl: oth | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: hcl:#7d3b0c byr:1925 iyr:2015 hgt:174cm pid:888044223 cid:168 ecl:oth eyr:2029 
+hcl: #7d3b0c | Result: Passed
+byr: 1925 | Result: Passed
+iyr: 2015 | Result: Passed
+hgt: 174cm | Result: Passed
+pid: 888044223 | Result: Passed
+cid: 168 | Result: Failed
+ecl: oth | Result: Passed
+eyr: 2029 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: ecl:gry byr:2009 hgt:156cm hcl:#888785 pid:263500722 iyr:2015 eyr:2021 
+ecl: gry | Result: Passed
+byr: 2009 | Result: Failed
+hgt: 156cm | Result: Passed
+hcl: #888785 | Result: Passed
+pid: 263500722 | Result: Passed
+iyr: 2015 | Result: Passed
+eyr: 2021 | Result: Passed
+Validation Result: Failed | Result: vivvvvv
+_________________
+Input: cid:103 hcl:#ba8b89 ecl:hzl hgt:169cm byr:1929 pid:626102979 iyr:2016 eyr:2028 
+cid: 103 | Result: Failed
+hcl: #ba8b89 | Result: Passed
+ecl: hzl | Result: Passed
+hgt: 169cm | Result: Passed
+byr: 1929 | Result: Passed
+pid: 626102979 | Result: Passed
+iyr: 2016 | Result: Passed
+eyr: 2028 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: iyr:2016 hgt:188cm cid:133 byr:1926 ecl:hzl eyr:2023 hcl:#602927 pid:678092780 
+iyr: 2016 | Result: Passed
+hgt: 188cm | Result: Passed
+cid: 133 | Result: Failed
+byr: 1926 | Result: Passed
+ecl: hzl | Result: Passed
+eyr: 2023 | Result: Passed
+hcl: #602927 | Result: Passed
+pid: 678092780 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: ecl:utc byr:2025 pid:#584dc1 eyr:2037 hgt:151cm iyr:1950 hcl:#cfa07d 
+ecl: utc | Result: Failed
+byr: 2025 | Result: Failed
+pid: #584dc1 | Result: Failed
+eyr: 2037 | Result: Failed
+hgt: 151cm | Result: Passed
+iyr: 1950 | Result: Failed
+hcl: #cfa07d | Result: Passed
+Validation Result: Failed | Result: iiiiviv
+_________________
+Input: ecl:oth hgt:140 eyr:1977 hcl:#6b5442 iyr:1955 byr:1999 pid:868434068 
+ecl: oth | Result: Passed
+hgt: 140 | Result: Failed
+eyr: 1977 | Result: Failed
+hcl: #6b5442 | Result: Passed
+iyr: 1955 | Result: Failed
+byr: 1999 | Result: Passed
+pid: 868434068 | Result: Passed
+Validation Result: Failed | Result: vivivv
+_________________
+Input: eyr:2029 hcl:#18171d cid:158 iyr:2016 hgt:166cm ecl:hzl pid:100226690 byr:1942 
+eyr: 2029 | Result: Passed
+hcl: #18171d | Result: Passed
+cid: 158 | Result: Failed
+iyr: 2016 | Result: Passed
+hgt: 166cm | Result: Passed
+ecl: hzl | Result: Passed
+pid: 100226690 | Result: Passed
+byr: 1942 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: ecl:#806ce8 cid:153 iyr:2024 byr:1985 hcl:da8a68 pid:#d9e5b0 eyr:2017 
+ecl: #806ce8 | Result: Failed
+cid: 153 | Result: Failed
+iyr: 2024 | Result: Failed
+byr: 1985 | Result: Passed
+hcl: da8a68 | Result: Failed
+pid: #d9e5b0 | Result: Failed
+eyr: 2017 | Result: Failed
+Validation Result: Failed | Result: iiviii
+_________________
+Input: eyr:2020 hgt:164cm cid:222 ecl:hzl byr:1945 hcl:#cfa07d iyr:2011 
+eyr: 2020 | Result: Passed
+hgt: 164cm | Result: Passed
+cid: 222 | Result: Failed
+ecl: hzl | Result: Passed
+byr: 1945 | Result: Passed
+hcl: #cfa07d | Result: Passed
+iyr: 2011 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: iyr:2018 hgt:165cm pid:868536448 eyr:2026 byr:1930 ecl:hzl hcl:#623a2f cid:128 
+iyr: 2018 | Result: Passed
+hgt: 165cm | Result: Passed
+pid: 868536448 | Result: Passed
+eyr: 2026 | Result: Passed
+byr: 1930 | Result: Passed
+ecl: hzl | Result: Passed
+hcl: #623a2f | Result: Passed
+cid: 128 | Result: Failed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: ecl:grn iyr:2012 cid:326 byr:1950 hcl:#efcc98 eyr:2029 hgt:177cm pid:685629972 
+ecl: grn | Result: Passed
+iyr: 2012 | Result: Passed
+cid: 326 | Result: Failed
+byr: 1950 | Result: Passed
+hcl: #efcc98 | Result: Passed
+eyr: 2029 | Result: Passed
+hgt: 177cm | Result: Passed
+pid: 685629972 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:2004 hgt:168cm ecl:dne iyr:2020 hcl:z 
+byr: 2004 | Result: Failed
+hgt: 168cm | Result: Passed
+ecl: dne | Result: Failed
+iyr: 2020 | Result: Passed
+hcl: z | Result: Failed
+Validation Result: Failed | Result: ivivi
+_________________
+Input: byr:1964 pid:132604237 ecl:oth hcl:#602927 hgt:188cm cid:78 iyr:2012 eyr:2025 
+byr: 1964 | Result: Passed
+pid: 132604237 | Result: Passed
+ecl: oth | Result: Passed
+hcl: #602927 | Result: Passed
+hgt: 188cm | Result: Passed
+cid: 78 | Result: Failed
+iyr: 2012 | Result: Passed
+eyr: 2025 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:1945 iyr:2023 ecl:#1a590c hgt:70in pid:186cm eyr:2031 hcl:z 
+byr: 1945 | Result: Passed
+iyr: 2023 | Result: Failed
+ecl: #1a590c | Result: Failed
+hgt: 70in | Result: Passed
+pid: 186cm | Result: Failed
+eyr: 2031 | Result: Failed
+hcl: z | Result: Failed
+Validation Result: Failed | Result: viiviii
+_________________
+Input: cid:178 ecl:amb eyr:2024 hgt:162cm hcl:#18171d iyr:2016 byr:1945 pid:737813370 
+cid: 178 | Result: Failed
+ecl: amb | Result: Passed
+eyr: 2024 | Result: Passed
+hgt: 162cm | Result: Passed
+hcl: #18171d | Result: Passed
+iyr: 2016 | Result: Passed
+byr: 1945 | Result: Passed
+pid: 737813370 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hcl:#18171d byr:1949 pid:064917719 hgt:176cm ecl:amb eyr:2034 iyr:1998 
+hcl: #18171d | Result: Passed
+byr: 1949 | Result: Passed
+pid: 064917719 | Result: Passed
+hgt: 176cm | Result: Passed
+ecl: amb | Result: Passed
+eyr: 2034 | Result: Failed
+iyr: 1998 | Result: Failed
+Validation Result: Failed | Result: vvvvvii
+_________________
+Input: hgt:72in pid:711343766 hcl:#623a2f iyr:2010 byr:1977 ecl:amb cid:177 eyr:2023 
+hgt: 72in | Result: Passed
+pid: 711343766 | Result: Passed
+hcl: #623a2f | Result: Passed
+iyr: 2010 | Result: Passed
+byr: 1977 | Result: Passed
+ecl: amb | Result: Passed
+cid: 177 | Result: Failed
+eyr: 2023 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:1933 hgt:66 pid:22149379 eyr:2040 ecl:#92d7a7 hcl:#cfa07d 
+byr: 1933 | Result: Passed
+hgt: 66 | Result: Failed
+pid: 22149379 | Result: Failed
+eyr: 2040 | Result: Failed
+ecl: #92d7a7 | Result: Failed
+hcl: #cfa07d | Result: Passed
+Validation Result: Failed | Result: viiiv
+_________________
+Input: iyr:2020 byr:1946 eyr:2020 ecl:hzl pid:153cm hgt:159cm cid:261 hcl:#888785 
+iyr: 2020 | Result: Passed
+byr: 1946 | Result: Passed
+eyr: 2020 | Result: Passed
+ecl: hzl | Result: Passed
+pid: 153cm | Result: Failed
+hgt: 159cm | Result: Passed
+cid: 261 | Result: Failed
+hcl: #888785 | Result: Passed
+Validation Result: Failed | Result: vvvvivv
+_________________
+Input: iyr:2013 byr:1931 ecl:#2ced2e hcl:3c49c1 eyr:1950 hgt:182cm cid:133 pid:#19fc55 
+iyr: 2013 | Result: Passed
+byr: 1931 | Result: Passed
+ecl: #2ced2e | Result: Failed
+hcl: 3c49c1 | Result: Failed
+eyr: 1950 | Result: Failed
+hgt: 182cm | Result: Passed
+cid: 133 | Result: Failed
+pid: #19fc55 | Result: Failed
+Validation Result: Failed | Result: vviiivi
+_________________
+Input: hcl:#a9abe6 iyr:2016 eyr:2029 ecl:hzl cid:343 pid:691253232 byr:1952 hgt:187cm 
+hcl: #a9abe6 | Result: Passed
+iyr: 2016 | Result: Passed
+eyr: 2029 | Result: Passed
+ecl: hzl | Result: Passed
+cid: 343 | Result: Failed
+pid: 691253232 | Result: Passed
+byr: 1952 | Result: Passed
+hgt: 187cm | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hcl:z eyr:1964 ecl:#5995e6 byr:2021 hgt:72in pid:2103603035 iyr:1951 
+hcl: z | Result: Failed
+eyr: 1964 | Result: Failed
+ecl: #5995e6 | Result: Failed
+byr: 2021 | Result: Failed
+hgt: 72in | Result: Passed
+pid: 2103603035 | Result: Passed
+iyr: 1951 | Result: Failed
+Validation Result: Failed | Result: iiiivvi
+_________________
+Input: iyr:2024 hgt:151in byr:1988 ecl:blu eyr:1961 cid:117 hcl:z pid:5371118784 
+iyr: 2024 | Result: Failed
+hgt: 151in | Result: Failed
+byr: 1988 | Result: Passed
+ecl: blu | Result: Passed
+eyr: 1961 | Result: Failed
+cid: 117 | Result: Failed
+hcl: z | Result: Failed
+pid: 5371118784 | Result: Passed
+Validation Result: Failed | Result: iivviiv
+_________________
+Input: hgt:71cm iyr:2021 eyr:2033 ecl:amb hcl:z cid:202 pid:207141921 byr:1987 
+hgt: 71cm | Result: Failed
+iyr: 2021 | Result: Failed
+eyr: 2033 | Result: Failed
+ecl: amb | Result: Passed
+hcl: z | Result: Failed
+cid: 202 | Result: Failed
+pid: 207141921 | Result: Passed
+byr: 1987 | Result: Passed
+Validation Result: Failed | Result: iiivivv
+_________________
+Input: ecl:gry byr:1927 eyr:2024 hgt:60in iyr:2014 pid:847799723 cid:285 hcl:#733820 
+ecl: gry | Result: Passed
+byr: 1927 | Result: Passed
+eyr: 2024 | Result: Passed
+hgt: 60in | Result: Passed
+iyr: 2014 | Result: Passed
+pid: 847799723 | Result: Passed
+cid: 285 | Result: Failed
+hcl: #733820 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: eyr:2022 hcl:#18171d pid:847063261 byr:1926 ecl:grn iyr:2011 
+eyr: 2022 | Result: Passed
+hcl: #18171d | Result: Passed
+pid: 847063261 | Result: Passed
+byr: 1926 | Result: Passed
+ecl: grn | Result: Passed
+iyr: 2011 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: pid:647225630 iyr:2016 hcl:#a97842 ecl:oth eyr:2025 cid:144 hgt:182cm byr:1983 
+pid: 647225630 | Result: Passed
+iyr: 2016 | Result: Passed
+hcl: #a97842 | Result: Passed
+ecl: oth | Result: Passed
+eyr: 2025 | Result: Passed
+cid: 144 | Result: Failed
+hgt: 182cm | Result: Passed
+byr: 1983 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:150 byr:1924 eyr:2024 hcl:1600da ecl:brn cid:168 pid:656253964 
+hgt: 150 | Result: Failed
+byr: 1924 | Result: Passed
+eyr: 2024 | Result: Passed
+hcl: 1600da | Result: Failed
+ecl: brn | Result: Passed
+cid: 168 | Result: Failed
+pid: 656253964 | Result: Passed
+Validation Result: Failed | Result: vvivv
+_________________
+Input: hgt:153in pid:644514788 byr:1956 hcl:#866857 iyr:2029 ecl:utc 
+hgt: 153in | Result: Failed
+pid: 644514788 | Result: Passed
+byr: 1956 | Result: Passed
+hcl: #866857 | Result: Passed
+iyr: 2029 | Result: Failed
+ecl: utc | Result: Failed
+Validation Result: Failed | Result: ivvvii
+_________________
+Input: cid:57 pid:755541617 byr:1961 iyr:2019 ecl:grn hgt:169cm hcl:#efcc98 eyr:2029 
+cid: 57 | Result: Failed
+pid: 755541617 | Result: Passed
+byr: 1961 | Result: Passed
+iyr: 2019 | Result: Passed
+ecl: grn | Result: Passed
+hgt: 169cm | Result: Passed
+hcl: #efcc98 | Result: Passed
+eyr: 2029 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: iyr:2005 eyr:2040 hcl:8080a4 byr:2013 pid:145803668 
+iyr: 2005 | Result: Failed
+eyr: 2040 | Result: Failed
+hcl: 8080a4 | Result: Failed
+byr: 2013 | Result: Failed
+pid: 145803668 | Result: Passed
+Validation Result: Failed | Result: iiiiv
+_________________
+Input: iyr:2029 hcl:z ecl:brn byr:1948 hgt:76cm pid:186cm eyr:2031 
+iyr: 2029 | Result: Failed
+hcl: z | Result: Failed
+ecl: brn | Result: Passed
+byr: 1948 | Result: Passed
+hgt: 76cm | Result: Failed
+pid: 186cm | Result: Failed
+eyr: 2031 | Result: Failed
+Validation Result: Failed | Result: iivviii
+_________________
+Input: hcl:#888785 ecl:grn byr:1983 cid:268 pid:402246959 iyr:2018 eyr:2020 
+hcl: #888785 | Result: Passed
+ecl: grn | Result: Passed
+byr: 1983 | Result: Passed
+cid: 268 | Result: Failed
+pid: 402246959 | Result: Passed
+iyr: 2018 | Result: Passed
+eyr: 2020 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: hgt:175cm eyr:2026 pid:594997236 byr:1991 hcl:#ceb3a1 iyr:2015 ecl:blu 
+hgt: 175cm | Result: Passed
+eyr: 2026 | Result: Passed
+pid: 594997236 | Result: Passed
+byr: 1991 | Result: Passed
+hcl: #ceb3a1 | Result: Passed
+iyr: 2015 | Result: Passed
+ecl: blu | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:1989 eyr:2027 iyr:2020 hgt:192cm ecl:blu hcl:#cfa07d cid:61 pid:657979353 
+byr: 1989 | Result: Passed
+eyr: 2027 | Result: Passed
+iyr: 2020 | Result: Passed
+hgt: 192cm | Result: Passed
+ecl: blu | Result: Passed
+hcl: #cfa07d | Result: Passed
+cid: 61 | Result: Failed
+pid: 657979353 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: pid:#a043a3 iyr:2016 byr:1947 eyr:2031 hgt:191cm ecl:xry 
+pid: #a043a3 | Result: Failed
+iyr: 2016 | Result: Passed
+byr: 1947 | Result: Passed
+eyr: 2031 | Result: Failed
+hgt: 191cm | Result: Passed
+ecl: xry | Result: Failed
+Validation Result: Failed | Result: ivvivi
+_________________
+Input: eyr:2023 ecl:blu byr:1948 cid:128 hgt:74in pid:966094274 iyr:2015 
+eyr: 2023 | Result: Passed
+ecl: blu | Result: Passed
+byr: 1948 | Result: Passed
+cid: 128 | Result: Failed
+hgt: 74in | Result: Passed
+pid: 966094274 | Result: Passed
+iyr: 2015 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: iyr:2020 ecl:zzz eyr:1999 hcl:3cf716 byr:2017 cid:343 pid:60198759 hgt:70cm 
+iyr: 2020 | Result: Passed
+ecl: zzz | Result: Failed
+eyr: 1999 | Result: Failed
+hcl: 3cf716 | Result: Failed
+byr: 2017 | Result: Failed
+cid: 343 | Result: Failed
+pid: 60198759 | Result: Failed
+hgt: 70cm | Result: Failed
+Validation Result: Failed | Result: viiiiii
+_________________
+Input: hgt:182 pid:80897411 byr:2014 eyr:2033 iyr:1941 ecl:#9c54e8 cid:107 hcl:z 
+hgt: 182 | Result: Failed
+pid: 80897411 | Result: Failed
+byr: 2014 | Result: Failed
+eyr: 2033 | Result: Failed
+iyr: 1941 | Result: Failed
+ecl: #9c54e8 | Result: Failed
+cid: 107 | Result: Failed
+hcl: z | Result: Failed
+Validation Result: Failed | Result: iiiiii
+_________________
+Input: iyr:2015 hcl:#866857 byr:1990 cid:167 pid:588340506 eyr:2030 hgt:168cm ecl:oth 
+iyr: 2015 | Result: Passed
+hcl: #866857 | Result: Passed
+byr: 1990 | Result: Passed
+cid: 167 | Result: Failed
+pid: 588340506 | Result: Passed
+eyr: 2030 | Result: Passed
+hgt: 168cm | Result: Passed
+ecl: oth | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hcl:676aad hgt:151 cid:192 eyr:1930 ecl:oth byr:2012 pid:513365039 iyr:1943 
+hcl: 676aad | Result: Failed
+hgt: 151 | Result: Failed
+cid: 192 | Result: Failed
+eyr: 1930 | Result: Failed
+ecl: oth | Result: Passed
+byr: 2012 | Result: Failed
+pid: 513365039 | Result: Passed
+iyr: 1943 | Result: Failed
+Validation Result: Failed | Result: iivivi
+_________________
+Input: cid:119 ecl:#921980 hgt:70cm eyr:2024 hcl:4909ee pid:#13fe6c iyr:2022 byr:2014 
+cid: 119 | Result: Failed
+ecl: #921980 | Result: Failed
+hgt: 70cm | Result: Failed
+eyr: 2024 | Result: Passed
+hcl: 4909ee | Result: Failed
+pid: #13fe6c | Result: Failed
+iyr: 2022 | Result: Failed
+byr: 2014 | Result: Failed
+Validation Result: Failed | Result: iiviiii
+_________________
+Input: eyr:2036 hcl:02fdbc hgt:155cm iyr:1946 pid:508011940 ecl:utc byr:2025 
+eyr: 2036 | Result: Failed
+hcl: 02fdbc | Result: Failed
+hgt: 155cm | Result: Passed
+iyr: 1946 | Result: Failed
+pid: 508011940 | Result: Passed
+ecl: utc | Result: Failed
+byr: 2025 | Result: Failed
+Validation Result: Failed | Result: iivivii
+_________________
+Input: pid:#f74bbe eyr:2028 hcl:#c0946f hgt:171cm ecl:#9077c0 byr:1951 iyr:2010 
+pid: #f74bbe | Result: Failed
+eyr: 2028 | Result: Passed
+hcl: #c0946f | Result: Passed
+hgt: 171cm | Result: Passed
+ecl: #9077c0 | Result: Failed
+byr: 1951 | Result: Passed
+iyr: 2010 | Result: Passed
+Validation Result: Failed | Result: ivvvivv
+_________________
+Input: iyr:2017 hgt:125 hcl:#cfa07d pid:731062033 ecl:brn eyr:2028 cid:255 byr:2020 
+iyr: 2017 | Result: Passed
+hgt: 125 | Result: Failed
+hcl: #cfa07d | Result: Passed
+pid: 731062033 | Result: Passed
+ecl: brn | Result: Passed
+eyr: 2028 | Result: Passed
+cid: 255 | Result: Failed
+byr: 2020 | Result: Failed
+Validation Result: Failed | Result: vvvvvi
+_________________
+Input: ecl:xry eyr:2033 byr:1978 iyr:2012 hgt:70cm hcl:z pid:272848084 
+ecl: xry | Result: Failed
+eyr: 2033 | Result: Failed
+byr: 1978 | Result: Passed
+iyr: 2012 | Result: Passed
+hgt: 70cm | Result: Failed
+hcl: z | Result: Failed
+pid: 272848084 | Result: Passed
+Validation Result: Failed | Result: iivviiv
+_________________
+Input: ecl:blu hgt:174cm eyr:2030 byr:1999 hcl:#ceb3a1 iyr:2015 pid:322583115 cid:301 
+ecl: blu | Result: Passed
+hgt: 174cm | Result: Passed
+eyr: 2030 | Result: Passed
+byr: 1999 | Result: Passed
+hcl: #ceb3a1 | Result: Passed
+iyr: 2015 | Result: Passed
+pid: 322583115 | Result: Passed
+cid: 301 | Result: Failed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: eyr:2007 byr:2007 ecl:dne cid:322 pid:182cm iyr:2013 hgt:156in hcl:680e8c 
+eyr: 2007 | Result: Failed
+byr: 2007 | Result: Failed
+ecl: dne | Result: Failed
+cid: 322 | Result: Failed
+pid: 182cm | Result: Failed
+iyr: 2013 | Result: Passed
+hgt: 156in | Result: Failed
+hcl: 680e8c | Result: Failed
+Validation Result: Failed | Result: iiiivii
+_________________
+Input: hgt:189cm hcl:#18171d byr:1996 ecl:amb eyr:2022 iyr:2020 pid:470853813 
+hgt: 189cm | Result: Passed
+hcl: #18171d | Result: Passed
+byr: 1996 | Result: Passed
+ecl: amb | Result: Passed
+eyr: 2022 | Result: Passed
+iyr: 2020 | Result: Passed
+pid: 470853813 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: pid:785152983 iyr:2014 eyr:2028 hcl:#d50ced ecl:hzl byr:1998 
+pid: 785152983 | Result: Passed
+iyr: 2014 | Result: Passed
+eyr: 2028 | Result: Passed
+hcl: #d50ced | Result: Passed
+ecl: hzl | Result: Passed
+byr: 1998 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: ecl:hzl byr:1945 hcl:#7d3b0c cid:164 hgt:187cm pid:414181589 iyr:2018 
+ecl: hzl | Result: Passed
+byr: 1945 | Result: Passed
+hcl: #7d3b0c | Result: Passed
+cid: 164 | Result: Failed
+hgt: 187cm | Result: Passed
+pid: 414181589 | Result: Passed
+iyr: 2018 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: byr:1936 hgt:183cm ecl:gry pid:376279728 hcl:#7d3b0c eyr:2023 iyr:2012 
+byr: 1936 | Result: Passed
+hgt: 183cm | Result: Passed
+ecl: gry | Result: Passed
+pid: 376279728 | Result: Passed
+hcl: #7d3b0c | Result: Passed
+eyr: 2023 | Result: Passed
+iyr: 2012 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:2000 hgt:157cm ecl:hzl iyr:2020 pid:203994583 eyr:2023 hcl:#866857 
+byr: 2000 | Result: Passed
+hgt: 157cm | Result: Passed
+ecl: hzl | Result: Passed
+iyr: 2020 | Result: Passed
+pid: 203994583 | Result: Passed
+eyr: 2023 | Result: Passed
+hcl: #866857 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: eyr:1992 byr:2009 iyr:2029 hcl:dc80b3 hgt:70cm ecl:grn pid:#65c31d 
+eyr: 1992 | Result: Failed
+byr: 2009 | Result: Failed
+iyr: 2029 | Result: Failed
+hcl: dc80b3 | Result: Failed
+hgt: 70cm | Result: Failed
+ecl: grn | Result: Passed
+pid: #65c31d | Result: Failed
+Validation Result: Failed | Result: iiiiivi
+_________________
+Input: hcl:#7d3b0c byr:1945 hgt:177cm iyr:2013 eyr:2028 pid:038116668 cid:74 ecl:blu 
+hcl: #7d3b0c | Result: Passed
+byr: 1945 | Result: Passed
+hgt: 177cm | Result: Passed
+iyr: 2013 | Result: Passed
+eyr: 2028 | Result: Passed
+pid: 038116668 | Result: Passed
+cid: 74 | Result: Failed
+ecl: blu | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: pid:700997508 eyr:1970 ecl:zzz hcl:#888785 iyr:2013 byr:1986 cid:219 hgt:76cm 
+pid: 700997508 | Result: Passed
+eyr: 1970 | Result: Failed
+ecl: zzz | Result: Failed
+hcl: #888785 | Result: Passed
+iyr: 2013 | Result: Passed
+byr: 1986 | Result: Passed
+cid: 219 | Result: Failed
+hgt: 76cm | Result: Failed
+Validation Result: Failed | Result: viivvvi
+_________________
+Input: eyr:2025 hgt:161cm iyr:2015 cid:188 hcl:#fffffd pid:840085402 ecl:gry byr:1988 
+eyr: 2025 | Result: Passed
+hgt: 161cm | Result: Passed
+iyr: 2015 | Result: Passed
+cid: 188 | Result: Failed
+hcl: #fffffd | Result: Passed
+pid: 840085402 | Result: Passed
+ecl: gry | Result: Passed
+byr: 1988 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: pid:96550914 hcl:#481a3b byr:1997 ecl:#a57167 cid:274 hgt:174cm 
+pid: 96550914 | Result: Failed
+hcl: #481a3b | Result: Passed
+byr: 1997 | Result: Passed
+ecl: #a57167 | Result: Failed
+cid: 274 | Result: Failed
+hgt: 174cm | Result: Passed
+Validation Result: Failed | Result: ivviv
+_________________
+Input: hcl:#b6652a ecl:brn eyr:2029 hgt:157cm iyr:2011 pid:910022061 byr:1947 cid:273 
+hcl: #b6652a | Result: Passed
+ecl: brn | Result: Passed
+eyr: 2029 | Result: Passed
+hgt: 157cm | Result: Passed
+iyr: 2011 | Result: Passed
+pid: 910022061 | Result: Passed
+byr: 1947 | Result: Passed
+cid: 273 | Result: Failed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: pid:010289131 eyr:2026 byr:1930 hcl:#b6652a ecl:grn cid:220 hgt:187cm iyr:2013 
+pid: 010289131 | Result: Passed
+eyr: 2026 | Result: Passed
+byr: 1930 | Result: Passed
+hcl: #b6652a | Result: Passed
+ecl: grn | Result: Passed
+cid: 220 | Result: Failed
+hgt: 187cm | Result: Passed
+iyr: 2013 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hcl:#6b5442 ecl:grt hgt:120 pid:454504291 eyr:1933 byr:2025 iyr:1930 
+hcl: #6b5442 | Result: Passed
+ecl: grt | Result: Failed
+hgt: 120 | Result: Failed
+pid: 454504291 | Result: Passed
+eyr: 1933 | Result: Failed
+byr: 2025 | Result: Failed
+iyr: 1930 | Result: Failed
+Validation Result: Failed | Result: viviii
+_________________
+Input: iyr:2016 hgt:180cm ecl:amb eyr:2028 cid:237 pid:334803890 byr:1953 hcl:#18171d 
+iyr: 2016 | Result: Passed
+hgt: 180cm | Result: Passed
+ecl: amb | Result: Passed
+eyr: 2028 | Result: Passed
+cid: 237 | Result: Failed
+pid: 334803890 | Result: Passed
+byr: 1953 | Result: Passed
+hcl: #18171d | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: eyr:2020 byr:2002 hcl:#c54f21 iyr:2019 ecl:blu hgt:180cm cid:138 
+eyr: 2020 | Result: Passed
+byr: 2002 | Result: Passed
+hcl: #c54f21 | Result: Passed
+iyr: 2019 | Result: Passed
+ecl: blu | Result: Passed
+hgt: 180cm | Result: Passed
+cid: 138 | Result: Failed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: byr:1933 iyr:2020 ecl:brn hgt:185cm hcl:#c0946f eyr:2020 pid:050791974 
+byr: 1933 | Result: Passed
+iyr: 2020 | Result: Passed
+ecl: brn | Result: Passed
+hgt: 185cm | Result: Passed
+hcl: #c0946f | Result: Passed
+eyr: 2020 | Result: Passed
+pid: 050791974 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:1933 ecl:brn hgt:186cm pid:643899463 eyr:2030 iyr:2019 hcl:#866857 
+byr: 1933 | Result: Passed
+ecl: brn | Result: Passed
+hgt: 186cm | Result: Passed
+pid: 643899463 | Result: Passed
+eyr: 2030 | Result: Passed
+iyr: 2019 | Result: Passed
+hcl: #866857 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: iyr:2018 byr:1935 ecl:oth eyr:2029 pid:732801213 hcl:#6b5442 hgt:169cm 
+iyr: 2018 | Result: Passed
+byr: 1935 | Result: Passed
+ecl: oth | Result: Passed
+eyr: 2029 | Result: Passed
+pid: 732801213 | Result: Passed
+hcl: #6b5442 | Result: Passed
+hgt: 169cm | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: eyr:2020 hcl:z byr:1996 ecl:#4102ee pid:890541531 hgt:193cm iyr:2014 
+eyr: 2020 | Result: Passed
+hcl: z | Result: Failed
+byr: 1996 | Result: Passed
+ecl: #4102ee | Result: Failed
+pid: 890541531 | Result: Passed
+hgt: 193cm | Result: Passed
+iyr: 2014 | Result: Passed
+Validation Result: Failed | Result: vivivvv
+_________________
+Input: pid:618379341 ecl:gry hcl:#18171d byr:1991 eyr:2025 hgt:154cm iyr:2019 
+pid: 618379341 | Result: Passed
+ecl: gry | Result: Passed
+hcl: #18171d | Result: Passed
+byr: 1991 | Result: Passed
+eyr: 2025 | Result: Passed
+hgt: 154cm | Result: Passed
+iyr: 2019 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: iyr:2013 pid:912066964 ecl:grn eyr:2040 hgt:192cm byr:1974 hcl:#18171d 
+iyr: 2013 | Result: Passed
+pid: 912066964 | Result: Passed
+ecl: grn | Result: Passed
+eyr: 2040 | Result: Failed
+hgt: 192cm | Result: Passed
+byr: 1974 | Result: Passed
+hcl: #18171d | Result: Passed
+Validation Result: Failed | Result: vvvivvv
+_________________
+Input: eyr:2025 cid:167 hgt:192cm pid:678328147 ecl:gry hcl:#18171d iyr:2017 
+eyr: 2025 | Result: Passed
+cid: 167 | Result: Failed
+hgt: 192cm | Result: Passed
+pid: 678328147 | Result: Passed
+ecl: gry | Result: Passed
+hcl: #18171d | Result: Passed
+iyr: 2017 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: iyr:2011 byr:2021 hgt:189cm ecl:gmt hcl:z eyr:2035 pid:278839955 
+iyr: 2011 | Result: Passed
+byr: 2021 | Result: Failed
+hgt: 189cm | Result: Passed
+ecl: gmt | Result: Failed
+hcl: z | Result: Failed
+eyr: 2035 | Result: Failed
+pid: 278839955 | Result: Passed
+Validation Result: Failed | Result: viviiiv
+_________________
+Input: eyr:2030 hcl:#efcc98 ecl:blu iyr:2011 pid:536958012 hgt:192cm byr:2002 
+eyr: 2030 | Result: Passed
+hcl: #efcc98 | Result: Passed
+ecl: blu | Result: Passed
+iyr: 2011 | Result: Passed
+pid: 536958012 | Result: Passed
+hgt: 192cm | Result: Passed
+byr: 2002 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: pid:#1306f2 byr:1976 hcl:#790688 hgt:158cm ecl:grn eyr:2024 iyr:2019 
+pid: #1306f2 | Result: Failed
+byr: 1976 | Result: Passed
+hcl: #790688 | Result: Passed
+hgt: 158cm | Result: Passed
+ecl: grn | Result: Passed
+eyr: 2024 | Result: Passed
+iyr: 2019 | Result: Passed
+Validation Result: Failed | Result: ivvvvvv
+_________________
+Input: eyr:2030 hcl:#866857 cid:50 ecl:oth pid:421235317 iyr:2014 hgt:60in 
+eyr: 2030 | Result: Passed
+hcl: #866857 | Result: Passed
+cid: 50 | Result: Failed
+ecl: oth | Result: Passed
+pid: 421235317 | Result: Passed
+iyr: 2014 | Result: Passed
+hgt: 60in | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: iyr:2020 byr:1971 cid:124 pid:319896110 ecl:oth hcl:#fffffd 
+iyr: 2020 | Result: Passed
+byr: 1971 | Result: Passed
+cid: 124 | Result: Failed
+pid: 319896110 | Result: Passed
+ecl: oth | Result: Passed
+hcl: #fffffd | Result: Passed
+Validation Result: Failed | Result: vvvvv
+_________________
+Input: cid:143 eyr:2021 hgt:190cm pid:366021385 hcl:#18171d ecl:amb byr:1934 iyr:2016 
+cid: 143 | Result: Failed
+eyr: 2021 | Result: Passed
+hgt: 190cm | Result: Passed
+pid: 366021385 | Result: Passed
+hcl: #18171d | Result: Passed
+ecl: amb | Result: Passed
+byr: 1934 | Result: Passed
+iyr: 2016 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:169cm hcl:#602927 pid:177cm eyr:2022 byr:2020 ecl:#dd96f4 iyr:2014 
+hgt: 169cm | Result: Passed
+hcl: #602927 | Result: Passed
+pid: 177cm | Result: Failed
+eyr: 2022 | Result: Passed
+byr: 2020 | Result: Failed
+ecl: #dd96f4 | Result: Failed
+iyr: 2014 | Result: Passed
+Validation Result: Failed | Result: vviviiv
+_________________
+Input: eyr:2020 hgt:173cm pid:591592395 ecl:oth byr:1966 hcl:#c0946f iyr:2020 
+eyr: 2020 | Result: Passed
+hgt: 173cm | Result: Passed
+pid: 591592395 | Result: Passed
+ecl: oth | Result: Passed
+byr: 1966 | Result: Passed
+hcl: #c0946f | Result: Passed
+iyr: 2020 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: pid:282088832 ecl:gmt hgt:167in byr:2016 hcl:z iyr:2018 
+pid: 282088832 | Result: Passed
+ecl: gmt | Result: Failed
+hgt: 167in | Result: Failed
+byr: 2016 | Result: Failed
+hcl: z | Result: Failed
+iyr: 2018 | Result: Passed
+Validation Result: Failed | Result: viiiiv
+_________________
+Input: iyr:2016 hgt:62in hcl:#c0946f pid:306204399 eyr:2020 ecl:brn byr:1999 
+iyr: 2016 | Result: Passed
+hgt: 62in | Result: Passed
+hcl: #c0946f | Result: Passed
+pid: 306204399 | Result: Passed
+eyr: 2020 | Result: Passed
+ecl: brn | Result: Passed
+byr: 1999 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: eyr:1947 byr:1984 pid:595671246 hcl:3d50e7 ecl:xry iyr:1947 
+eyr: 1947 | Result: Failed
+byr: 1984 | Result: Passed
+pid: 595671246 | Result: Passed
+hcl: 3d50e7 | Result: Failed
+ecl: xry | Result: Failed
+iyr: 1947 | Result: Failed
+Validation Result: Failed | Result: ivviii
+_________________
+Input: hgt:187cm eyr:2024 pid:477011496 byr:1971 hcl:#733820 iyr:2010 ecl:brn cid:165 
+hgt: 187cm | Result: Passed
+eyr: 2024 | Result: Passed
+pid: 477011496 | Result: Passed
+byr: 1971 | Result: Passed
+hcl: #733820 | Result: Passed
+iyr: 2010 | Result: Passed
+ecl: brn | Result: Passed
+cid: 165 | Result: Failed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:2023 pid:173cm hgt:193in eyr:2019 cid:102 ecl:grt hcl:#c0946f 
+byr: 2023 | Result: Failed
+pid: 173cm | Result: Failed
+hgt: 193in | Result: Failed
+eyr: 2019 | Result: Failed
+cid: 102 | Result: Failed
+ecl: grt | Result: Failed
+hcl: #c0946f | Result: Passed
+Validation Result: Failed | Result: iiiiiv
+_________________
+Input: pid:195062251 iyr:2027 cid:138 byr:2021 ecl:brn eyr:2025 hgt:60in 
+pid: 195062251 | Result: Passed
+iyr: 2027 | Result: Failed
+cid: 138 | Result: Failed
+byr: 2021 | Result: Failed
+ecl: brn | Result: Passed
+eyr: 2025 | Result: Passed
+hgt: 60in | Result: Passed
+Validation Result: Failed | Result: viivvv
+_________________
+Input: hgt:71cm hcl:z ecl:utc eyr:2021 iyr:1925 pid:5469028726 byr:2017 
+hgt: 71cm | Result: Failed
+hcl: z | Result: Failed
+ecl: utc | Result: Failed
+eyr: 2021 | Result: Passed
+iyr: 1925 | Result: Failed
+pid: 5469028726 | Result: Passed
+byr: 2017 | Result: Failed
+Validation Result: Failed | Result: iiivivi
+_________________
+Input: hcl:#b6652a hgt:168cm byr:1960 ecl:grn pid:653140418 iyr:2014 eyr:2023 
+hcl: #b6652a | Result: Passed
+hgt: 168cm | Result: Passed
+byr: 1960 | Result: Passed
+ecl: grn | Result: Passed
+pid: 653140418 | Result: Passed
+iyr: 2014 | Result: Passed
+eyr: 2023 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: pid:#afa892 cid:190 hcl:z hgt:189cm eyr:2020 ecl:gry byr:2003 iyr:1956 
+pid: #afa892 | Result: Failed
+cid: 190 | Result: Failed
+hcl: z | Result: Failed
+hgt: 189cm | Result: Passed
+eyr: 2020 | Result: Passed
+ecl: gry | Result: Passed
+byr: 2003 | Result: Failed
+iyr: 1956 | Result: Failed
+Validation Result: Failed | Result: iivvvii
+_________________
+Input: hcl:e4cddf cid:185 pid:189cm hgt:175cm byr:2016 iyr:2010 ecl:#fa945d eyr:1947 
+hcl: e4cddf | Result: Failed
+cid: 185 | Result: Failed
+pid: 189cm | Result: Failed
+hgt: 175cm | Result: Passed
+byr: 2016 | Result: Failed
+iyr: 2010 | Result: Passed
+ecl: #fa945d | Result: Failed
+eyr: 1947 | Result: Failed
+Validation Result: Failed | Result: iivivii
+_________________
+Input: cid:176 hcl:7752f8 eyr:2039 byr:2019 ecl:hzl iyr:2029 hgt:185cm pid:636534364 
+cid: 176 | Result: Failed
+hcl: 7752f8 | Result: Failed
+eyr: 2039 | Result: Failed
+byr: 2019 | Result: Failed
+ecl: hzl | Result: Passed
+iyr: 2029 | Result: Failed
+hgt: 185cm | Result: Passed
+pid: 636534364 | Result: Passed
+Validation Result: Failed | Result: iiivivv
+_________________
+Input: cid:170 ecl:gmt hcl:ef5177 byr:2021 eyr:1993 hgt:71cm pid:2136295 iyr:2013 
+cid: 170 | Result: Failed
+ecl: gmt | Result: Failed
+hcl: ef5177 | Result: Failed
+byr: 2021 | Result: Failed
+eyr: 1993 | Result: Failed
+hgt: 71cm | Result: Failed
+pid: 2136295 | Result: Failed
+iyr: 2013 | Result: Passed
+Validation Result: Failed | Result: iiiiiiv
+_________________
+Input: byr:2028 pid:156cm hcl:d74b86 cid:238 hgt:89 iyr:1957 eyr:1937 
+byr: 2028 | Result: Failed
+pid: 156cm | Result: Failed
+hcl: d74b86 | Result: Failed
+cid: 238 | Result: Failed
+hgt: 89 | Result: Failed
+iyr: 1957 | Result: Failed
+eyr: 1937 | Result: Failed
+Validation Result: Failed | Result: iiiii
+_________________
+Input: eyr:2030 byr:1932 hcl:#c0946f cid:349 hgt:177cm ecl:grn iyr:2016 
+eyr: 2030 | Result: Passed
+byr: 1932 | Result: Passed
+hcl: #c0946f | Result: Passed
+cid: 349 | Result: Failed
+hgt: 177cm | Result: Passed
+ecl: grn | Result: Passed
+iyr: 2016 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: hcl:z byr:2003 ecl:#9b98b2 hgt:81 pid:13338103 eyr:2040 
+hcl: z | Result: Failed
+byr: 2003 | Result: Failed
+ecl: #9b98b2 | Result: Failed
+hgt: 81 | Result: Failed
+pid: 13338103 | Result: Failed
+eyr: 2040 | Result: Failed
+Validation Result: Failed | Result: iiiii
+_________________
+Input: iyr:2018 pid:801432704 hgt:73in byr:1964 cid:298 hcl:#fffffd ecl:amb eyr:2030 
+iyr: 2018 | Result: Passed
+pid: 801432704 | Result: Passed
+hgt: 73in | Result: Passed
+byr: 1964 | Result: Passed
+cid: 298 | Result: Failed
+hcl: #fffffd | Result: Passed
+ecl: amb | Result: Passed
+eyr: 2030 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: cid:272 iyr:2019 pid:369160624 byr:1929 hgt:184cm eyr:2025 hcl:#ceb3a1 ecl:blu 
+cid: 272 | Result: Failed
+iyr: 2019 | Result: Passed
+pid: 369160624 | Result: Passed
+byr: 1929 | Result: Passed
+hgt: 184cm | Result: Passed
+eyr: 2025 | Result: Passed
+hcl: #ceb3a1 | Result: Passed
+ecl: blu | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hcl:#7d3b0c pid:525287934 byr:1998 eyr:2027 iyr:2017 hgt:168cm ecl:gry 
+hcl: #7d3b0c | Result: Passed
+pid: 525287934 | Result: Passed
+byr: 1998 | Result: Passed
+eyr: 2027 | Result: Passed
+iyr: 2017 | Result: Passed
+hgt: 168cm | Result: Passed
+ecl: gry | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:1975 eyr:2027 ecl:brn cid:125 hcl:4e319d hgt:172cm pid:308046532 iyr:2017 
+byr: 1975 | Result: Passed
+eyr: 2027 | Result: Passed
+ecl: brn | Result: Passed
+cid: 125 | Result: Failed
+hcl: 4e319d | Result: Failed
+hgt: 172cm | Result: Passed
+pid: 308046532 | Result: Passed
+iyr: 2017 | Result: Passed
+Validation Result: Failed | Result: vvvivvv
+_________________
+Input: hcl:b889c0 pid:6699675552 byr:2019 iyr:1968 ecl:gmt eyr:2003 hgt:180in 
+hcl: b889c0 | Result: Failed
+pid: 6699675552 | Result: Passed
+byr: 2019 | Result: Failed
+iyr: 1968 | Result: Failed
+ecl: gmt | Result: Failed
+eyr: 2003 | Result: Failed
+hgt: 180in | Result: Failed
+Validation Result: Failed | Result: iviiiii
+_________________
+Input: byr:2025 ecl:zzz hgt:162in hcl:z iyr:2002 pid:#87dca4 eyr:1951 
+byr: 2025 | Result: Failed
+ecl: zzz | Result: Failed
+hgt: 162in | Result: Failed
+hcl: z | Result: Failed
+iyr: 2002 | Result: Failed
+pid: #87dca4 | Result: Failed
+eyr: 1951 | Result: Failed
+Validation Result: Failed | Result: iiiiiii
+_________________
+Input: eyr:2022 pid:549517742 ecl:hzl iyr:2026 byr:2029 hgt:153cm hcl:2993de 
+eyr: 2022 | Result: Passed
+pid: 549517742 | Result: Passed
+ecl: hzl | Result: Passed
+iyr: 2026 | Result: Failed
+byr: 2029 | Result: Failed
+hgt: 153cm | Result: Passed
+hcl: 2993de | Result: Failed
+Validation Result: Failed | Result: vvviivi
+_________________
+Input: eyr:2024 pid:755674604 iyr:2018 hcl:#c0946f ecl:gry byr:1966 hgt:188cm 
+eyr: 2024 | Result: Passed
+pid: 755674604 | Result: Passed
+iyr: 2018 | Result: Passed
+hcl: #c0946f | Result: Passed
+ecl: gry | Result: Passed
+byr: 1966 | Result: Passed
+hgt: 188cm | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: pid:665375893 iyr:2017 byr:1997 eyr:2029 hgt:173cm ecl:gry 
+pid: 665375893 | Result: Passed
+iyr: 2017 | Result: Passed
+byr: 1997 | Result: Passed
+eyr: 2029 | Result: Passed
+hgt: 173cm | Result: Passed
+ecl: gry | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: hcl:#6b5442 hgt:74cm ecl:#0dc7f6 pid:451038742 eyr:1982 byr:1939 iyr:1932 
+hcl: #6b5442 | Result: Passed
+hgt: 74cm | Result: Failed
+ecl: #0dc7f6 | Result: Failed
+pid: 451038742 | Result: Passed
+eyr: 1982 | Result: Failed
+byr: 1939 | Result: Passed
+iyr: 1932 | Result: Failed
+Validation Result: Failed | Result: viivivi
+_________________
+Input: hcl:#18171d byr:1980 ecl:gry iyr:2019 hgt:167cm pid:326267989 eyr:2028 
+hcl: #18171d | Result: Passed
+byr: 1980 | Result: Passed
+ecl: gry | Result: Passed
+iyr: 2019 | Result: Passed
+hgt: 167cm | Result: Passed
+pid: 326267989 | Result: Passed
+eyr: 2028 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: cid:226 hgt:177cm ecl:hzl hcl:#a97842 eyr:2025 iyr:2013 byr:1949 pid:292166795 
+cid: 226 | Result: Failed
+hgt: 177cm | Result: Passed
+ecl: hzl | Result: Passed
+hcl: #a97842 | Result: Passed
+eyr: 2025 | Result: Passed
+iyr: 2013 | Result: Passed
+byr: 1949 | Result: Passed
+pid: 292166795 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: ecl:oth pid:962521763 iyr:2013 cid:71 eyr:2022 hgt:193cm hcl:#18171d byr:1969 
+ecl: oth | Result: Passed
+pid: 962521763 | Result: Passed
+iyr: 2013 | Result: Passed
+cid: 71 | Result: Failed
+eyr: 2022 | Result: Passed
+hgt: 193cm | Result: Passed
+hcl: #18171d | Result: Passed
+byr: 1969 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: ecl:grn iyr:2028 eyr:2024 hgt:189cm hcl:z byr:1940 pid:032392876 
+ecl: grn | Result: Passed
+iyr: 2028 | Result: Failed
+eyr: 2024 | Result: Passed
+hgt: 189cm | Result: Passed
+hcl: z | Result: Failed
+byr: 1940 | Result: Passed
+pid: 032392876 | Result: Passed
+Validation Result: Failed | Result: vivvivv
+_________________
+Input: iyr:2012 hgt:191cm cid:339 ecl:oth eyr:2028 pid:392810631 hcl:#b6652a byr:1959 
+iyr: 2012 | Result: Passed
+hgt: 191cm | Result: Passed
+cid: 339 | Result: Failed
+ecl: oth | Result: Passed
+eyr: 2028 | Result: Passed
+pid: 392810631 | Result: Passed
+hcl: #b6652a | Result: Passed
+byr: 1959 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: iyr:2011 byr:1975 eyr:2027 hcl:#18171d hgt:176cm ecl:gry pid:290432747 
+iyr: 2011 | Result: Passed
+byr: 1975 | Result: Passed
+eyr: 2027 | Result: Passed
+hcl: #18171d | Result: Passed
+hgt: 176cm | Result: Passed
+ecl: gry | Result: Passed
+pid: 290432747 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: cid:180 ecl:brn pid:210871734 eyr:2027 byr:1946 hcl:z hgt:185cm iyr:2011 
+cid: 180 | Result: Failed
+ecl: brn | Result: Passed
+pid: 210871734 | Result: Passed
+eyr: 2027 | Result: Passed
+byr: 1946 | Result: Passed
+hcl: z | Result: Failed
+hgt: 185cm | Result: Passed
+iyr: 2011 | Result: Passed
+Validation Result: Failed | Result: vvvvivv
+_________________
+Input: byr:1924 ecl:grt eyr:2028 hgt:187cm pid:#608f4f 
+byr: 1924 | Result: Passed
+ecl: grt | Result: Failed
+eyr: 2028 | Result: Passed
+hgt: 187cm | Result: Passed
+pid: #608f4f | Result: Failed
+Validation Result: Failed | Result: vivvi
+_________________
+Input: eyr:2022 ecl:#a05063 byr:1926 hcl:#7d3b0c pid:3292990618 hgt:183in iyr:2021 
+eyr: 2022 | Result: Passed
+ecl: #a05063 | Result: Failed
+byr: 1926 | Result: Passed
+hcl: #7d3b0c | Result: Passed
+pid: 3292990618 | Result: Passed
+hgt: 183in | Result: Failed
+iyr: 2021 | Result: Failed
+Validation Result: Failed | Result: vivvvii
+_________________
+Input: ecl:#a8b66c iyr:1942 eyr:1960 hgt:60cm byr:2027 pid:#3b6f3f hcl:9fae56 
+ecl: #a8b66c | Result: Failed
+iyr: 1942 | Result: Failed
+eyr: 1960 | Result: Failed
+hgt: 60cm | Result: Failed
+byr: 2027 | Result: Failed
+pid: #3b6f3f | Result: Failed
+hcl: 9fae56 | Result: Failed
+Validation Result: Failed | Result: iiiiiii
+_________________
+Input: hgt:183cm ecl:oth hcl:#c0946f pid:816986054 eyr:2020 iyr:2014 byr:1935 
+hgt: 183cm | Result: Passed
+ecl: oth | Result: Passed
+hcl: #c0946f | Result: Passed
+pid: 816986054 | Result: Passed
+eyr: 2020 | Result: Passed
+iyr: 2014 | Result: Passed
+byr: 1935 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:174 byr:2008 iyr:2029 hcl:9259e7 pid:85036214 ecl:gmt 
+hgt: 174 | Result: Failed
+byr: 2008 | Result: Failed
+iyr: 2029 | Result: Failed
+hcl: 9259e7 | Result: Failed
+pid: 85036214 | Result: Failed
+ecl: gmt | Result: Failed
+Validation Result: Failed | Result: iiiii
+_________________
+Input: cid:85 pid:032040868 byr:2001 eyr:2027 hcl:#c0946f ecl:grn iyr:2020 hgt:173cm 
+cid: 85 | Result: Failed
+pid: 032040868 | Result: Passed
+byr: 2001 | Result: Passed
+eyr: 2027 | Result: Passed
+hcl: #c0946f | Result: Passed
+ecl: grn | Result: Passed
+iyr: 2020 | Result: Passed
+hgt: 173cm | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hcl:#6b5442 cid:308 ecl:grt iyr:1939 byr:2009 pid:9365125584 eyr:2031 hgt:67cm 
+hcl: #6b5442 | Result: Passed
+cid: 308 | Result: Failed
+ecl: grt | Result: Failed
+iyr: 1939 | Result: Failed
+byr: 2009 | Result: Failed
+pid: 9365125584 | Result: Passed
+eyr: 2031 | Result: Failed
+hgt: 67cm | Result: Failed
+Validation Result: Failed | Result: viiivii
+_________________
+Input: hgt:154cm byr:1936 eyr:2030 hcl:491c70 pid:391887956 iyr:2029 ecl:blu 
+hgt: 154cm | Result: Passed
+byr: 1936 | Result: Passed
+eyr: 2030 | Result: Passed
+hcl: 491c70 | Result: Failed
+pid: 391887956 | Result: Passed
+iyr: 2029 | Result: Failed
+ecl: blu | Result: Passed
+Validation Result: Failed | Result: vvviviv
+_________________
+Input: hcl:#866857 hgt:161cm cid:76 pid:921202500 eyr:2021 ecl:brn byr:1968 
+hcl: #866857 | Result: Passed
+hgt: 161cm | Result: Passed
+cid: 76 | Result: Failed
+pid: 921202500 | Result: Passed
+eyr: 2021 | Result: Passed
+ecl: brn | Result: Passed
+byr: 1968 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: iyr:2024 ecl:dne hcl:z pid:8054447805 hgt:154 eyr:2035 byr:2024 
+iyr: 2024 | Result: Failed
+ecl: dne | Result: Failed
+hcl: z | Result: Failed
+pid: 8054447805 | Result: Passed
+hgt: 154 | Result: Failed
+eyr: 2035 | Result: Failed
+byr: 2024 | Result: Failed
+Validation Result: Failed | Result: iiivii
+_________________
+Input: hcl:#0a524b pid:667928918 eyr:2025 cid:245 ecl:brn byr:1973 hgt:179cm 
+hcl: #0a524b | Result: Passed
+pid: 667928918 | Result: Passed
+eyr: 2025 | Result: Passed
+cid: 245 | Result: Failed
+ecl: brn | Result: Passed
+byr: 1973 | Result: Passed
+hgt: 179cm | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: ecl:gry hgt:68in pid:322837855 eyr:2023 cid:323 byr:1944 iyr:2012 
+ecl: gry | Result: Passed
+hgt: 68in | Result: Passed
+pid: 322837855 | Result: Passed
+eyr: 2023 | Result: Passed
+cid: 323 | Result: Failed
+byr: 1944 | Result: Passed
+iyr: 2012 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: byr:1940 hgt:178cm ecl:hzl hcl:#c0946f iyr:2030 eyr:2020 pid:788531859 
+byr: 1940 | Result: Passed
+hgt: 178cm | Result: Passed
+ecl: hzl | Result: Passed
+hcl: #c0946f | Result: Passed
+iyr: 2030 | Result: Failed
+eyr: 2020 | Result: Passed
+pid: 788531859 | Result: Passed
+Validation Result: Failed | Result: vvvvivv
+_________________
+Input: cid:253 iyr:2012 hgt:163cm pid:554364568 eyr:2025 byr:1976 ecl:grn hcl:#888785 
+cid: 253 | Result: Failed
+iyr: 2012 | Result: Passed
+hgt: 163cm | Result: Passed
+pid: 554364568 | Result: Passed
+eyr: 2025 | Result: Passed
+byr: 1976 | Result: Passed
+ecl: grn | Result: Passed
+hcl: #888785 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hcl:#efcc98 iyr:2015 ecl:gry eyr:2029 pid:273847553 cid:274 hgt:68in byr:1933 
+hcl: #efcc98 | Result: Passed
+iyr: 2015 | Result: Passed
+ecl: gry | Result: Passed
+eyr: 2029 | Result: Passed
+pid: 273847553 | Result: Passed
+cid: 274 | Result: Failed
+hgt: 68in | Result: Passed
+byr: 1933 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:165cm pid:209462386 eyr:2024 byr:1969 hcl:#733820 ecl:grn iyr:2020 
+hgt: 165cm | Result: Passed
+pid: 209462386 | Result: Passed
+eyr: 2024 | Result: Passed
+byr: 1969 | Result: Passed
+hcl: #733820 | Result: Passed
+ecl: grn | Result: Passed
+iyr: 2020 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:1975 hgt:187cm eyr:2027 iyr:2018 hcl:#c0946f ecl:hzl pid:141969110 
+byr: 1975 | Result: Passed
+hgt: 187cm | Result: Passed
+eyr: 2027 | Result: Passed
+iyr: 2018 | Result: Passed
+hcl: #c0946f | Result: Passed
+ecl: hzl | Result: Passed
+pid: 141969110 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hcl:z pid:534439483 iyr:2022 ecl:grt eyr:2036 hgt:164in cid:324 byr:2025 
+hcl: z | Result: Failed
+pid: 534439483 | Result: Passed
+iyr: 2022 | Result: Failed
+ecl: grt | Result: Failed
+eyr: 2036 | Result: Failed
+hgt: 164in | Result: Failed
+cid: 324 | Result: Failed
+byr: 2025 | Result: Failed
+Validation Result: Failed | Result: iviiiii
+_________________
+Input: hcl:#74ca66 iyr:2011 pid:253012158 hgt:188cm cid:246 ecl:oth eyr:2023 
+hcl: #74ca66 | Result: Passed
+iyr: 2011 | Result: Passed
+pid: 253012158 | Result: Passed
+hgt: 188cm | Result: Passed
+cid: 246 | Result: Failed
+ecl: oth | Result: Passed
+eyr: 2023 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: byr:2020 pid:56939101 hcl:9f5f65 eyr:1949 iyr:2021 hgt:155in 
+byr: 2020 | Result: Failed
+pid: 56939101 | Result: Failed
+hcl: 9f5f65 | Result: Failed
+eyr: 1949 | Result: Failed
+iyr: 2021 | Result: Failed
+hgt: 155in | Result: Failed
+Validation Result: Failed | Result: iiiiii
+_________________
+Input: iyr:2020 hgt:174cm cid:304 byr:1944 eyr:2028 hcl:#733820 
+iyr: 2020 | Result: Passed
+hgt: 174cm | Result: Passed
+cid: 304 | Result: Failed
+byr: 1944 | Result: Passed
+eyr: 2028 | Result: Passed
+hcl: #733820 | Result: Passed
+Validation Result: Failed | Result: vvvvv
+_________________
+Input: hcl:#866857 ecl:gry eyr:2030 iyr:2014 hgt:63in byr:1997 pid:371522079 
+hcl: #866857 | Result: Passed
+ecl: gry | Result: Passed
+eyr: 2030 | Result: Passed
+iyr: 2014 | Result: Passed
+hgt: 63in | Result: Passed
+byr: 1997 | Result: Passed
+pid: 371522079 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: ecl:amb byr:1955 iyr:2013 hcl:#888785 cid:265 eyr:2026 hgt:190cm pid:311393763 
+ecl: amb | Result: Passed
+byr: 1955 | Result: Passed
+iyr: 2013 | Result: Passed
+hcl: #888785 | Result: Passed
+cid: 265 | Result: Failed
+eyr: 2026 | Result: Passed
+hgt: 190cm | Result: Passed
+pid: 311393763 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: eyr:2026 iyr:2019 pid:721355771 byr:1947 hcl:#733820 hgt:71in ecl:gry 
+eyr: 2026 | Result: Passed
+iyr: 2019 | Result: Passed
+pid: 721355771 | Result: Passed
+byr: 1947 | Result: Passed
+hcl: #733820 | Result: Passed
+hgt: 71in | Result: Passed
+ecl: gry | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: cid:94 eyr:2024 byr:1938 pid:336868233 ecl:hzl iyr:2012 hgt:177cm hcl:#7d3b0c 
+cid: 94 | Result: Failed
+eyr: 2024 | Result: Passed
+byr: 1938 | Result: Passed
+pid: 336868233 | Result: Passed
+ecl: hzl | Result: Passed
+iyr: 2012 | Result: Passed
+hgt: 177cm | Result: Passed
+hcl: #7d3b0c | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: ecl:brn iyr:2010 eyr:2027 pid:379769214 cid:111 byr:1960 hcl:#cfa07d hgt:169cm 
+ecl: brn | Result: Passed
+iyr: 2010 | Result: Passed
+eyr: 2027 | Result: Passed
+pid: 379769214 | Result: Passed
+cid: 111 | Result: Failed
+byr: 1960 | Result: Passed
+hcl: #cfa07d | Result: Passed
+hgt: 169cm | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: hgt:179cm hcl:3f59a6 eyr:2036 byr:2025 ecl:oth pid:217404607 iyr:2018 
+hgt: 179cm | Result: Passed
+hcl: 3f59a6 | Result: Failed
+eyr: 2036 | Result: Failed
+byr: 2025 | Result: Failed
+ecl: oth | Result: Passed
+pid: 217404607 | Result: Passed
+iyr: 2018 | Result: Passed
+Validation Result: Failed | Result: viiivvv
+_________________
+Input: ecl:amb pid:820370865 hgt:170cm iyr:2012 byr:1967 hcl:#efcc98 cid:309 eyr:2025 
+ecl: amb | Result: Passed
+pid: 820370865 | Result: Passed
+hgt: 170cm | Result: Passed
+iyr: 2012 | Result: Passed
+byr: 1967 | Result: Passed
+hcl: #efcc98 | Result: Passed
+cid: 309 | Result: Failed
+eyr: 2025 | Result: Passed
+Validation Result: Passed | Result: vvvvvvv
+_________________
+Input: byr:1940 pid:008495978 ecl:gry hgt:159cm hcl:#602927 eyr:2024 
+byr: 1940 | Result: Passed
+pid: 008495978 | Result: Passed
+ecl: gry | Result: Passed
+hgt: 159cm | Result: Passed
+hcl: #602927 | Result: Passed
+eyr: 2024 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: hgt:186cm byr:1971 pid:556900517 cid:334 hcl:#efcc98 ecl:brn iyr:2014 
+hgt: 186cm | Result: Passed
+byr: 1971 | Result: Passed
+pid: 556900517 | Result: Passed
+cid: 334 | Result: Failed
+hcl: #efcc98 | Result: Passed
+ecl: brn | Result: Passed
+iyr: 2014 | Result: Passed
+Validation Result: Failed | Result: vvvvvv
+_________________
+Input: iyr:2020 byr:1928 cid:200 hgt:193cm ecl:grn hcl:#7d3b0c 
+iyr: 2020 | Result: Passed
+byr: 1928 | Result: Passed
+cid: 200 | Result: Failed
+hgt: 193cm | Result: Passed
+ecl: grn | Result: Passed
+hcl: #7d3b0c | Result: Passed
+Validation Result: Failed | Result: vvvvv
+_________________
+Input: cid:233 hcl:a3046e pid:626863952 ecl:lzr iyr:2029 eyr:2024 byr:2000 hgt:193cm 
+cid: 233 | Result: Failed
+hcl: a3046e | Result: Failed
+pid: 626863952 | Result: Passed
+ecl: lzr | Result: Failed
+iyr: 2029 | Result: Failed
+eyr: 2024 | Result: Passed
+byr: 2000 | Result: Passed
+hgt: 193cm | Result: Passed
+Validation Result: Failed | Result: iviivvv
+_________________
+Input: cid:244 hcl:#866857 ecl:amb byr:1931 eyr:1928 pid:557376401 hgt:182cm iyr:2013 
+cid: 244 | Result: Failed
+hcl: #866857 | Result: Passed
+ecl: amb | Result: Passed
+byr: 1931 | Result: Passed
+eyr: 1928 | Result: Failed
+pid: 557376401 | Result: Passed
+hgt: 182cm | Result: Passed
+iyr: 2013 | Result: Passed
+Validation Result: Failed | Result: vvvivvv
+_________________
+Result: 115
