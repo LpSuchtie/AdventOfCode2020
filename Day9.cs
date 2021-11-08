@@ -8,10 +8,10 @@ namespace Day3
         public static void XMAS()
         {
             File.WriteAllText(@"Output9.txt", string.Empty);
-            long[] input = new long[File.ReadAllLines(@"Input_Day9.txt").Length];
+            long[] input = new long[File.ReadAllLines(@"Inputs/Input_Day9.txt").Length];
             for (int i = 0; i < input.Length; i++)
             {
-                input[i] = long.Parse(File.ReadAllLines(@"Input_Day9.txt")[i]);
+                input[i] = long.Parse(File.ReadAllLines(@"Inputs/Input_Day9.txt")[i]);
             }
             long sum = 0;
             for (long i = 24; i < input.Length; i++)

@@ -9,11 +9,11 @@ namespace Day3
     {
         public static void Joltage()
         {
-            int[] input = new int[File.ReadAllLines(@"Input_Day10.txt").Length];
+            int[] input = new int[File.ReadAllLines(@"Inputs/Input_Day10.txt").Length];
 
             for (int i = 0; i < input.Length; i++)
             {
-                input[i] = int.Parse(File.ReadAllLines(@"Input_Day10.txt")[i]);
+                input[i] = int.Parse(File.ReadAllLines(@"Inputs/Input_Day10.txt")[i]);
             }
             Array.Sort(input);
 

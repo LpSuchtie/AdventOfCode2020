@@ -11,9 +11,9 @@ namespace Day3
         {
             File.WriteAllText(@"Output4.txt", string.Empty);
             int valid = 0;
-            string[] data = new string[File.ReadAllLines(@"Input_day4.txt").Length];
+            string[] data = new string[File.ReadAllLines(@"Inputs/Input_day4.txt").Length];
             int i = 0;
-            foreach (string line in File.ReadAllLines(@"Input_day4.txt"))
+            foreach (string line in File.ReadAllLines(@"Inputs/Input_day4.txt"))
             {
                 if (string.IsNullOrEmpty(line))
                 {

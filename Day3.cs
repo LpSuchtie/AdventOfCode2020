@@ -15,7 +15,7 @@ namespace Day3
         public static void Trees()
         {
             long[] res = new long[5];
-            treeMap = File.ReadAllLines(@"Input_Day3.txt");
+            treeMap = File.ReadAllLines(@"Inputs/Input_Day3.txt");
             for (int i = 0; i < slopeX.Length; i++)
             {
                 counter = 0;

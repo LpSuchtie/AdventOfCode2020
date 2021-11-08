@@ -10,7 +10,7 @@ namespace Day3
         static int dir = 0;
         public static void NavSys()
         {
-            string[] movements = File.ReadAllLines(@"Input_Day12.txt");
+            string[] movements = File.ReadAllLines(@"Inputs/Input_Day12.txt");
             Part1(movements);
         }
         static void Part1(string[] movements)
@@ -77,7 +77,7 @@ namespace Day3
 
         static void Part2(string[] movements)
         {
-            
+
         }
         static int normalize(int value)
         {

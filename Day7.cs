@@ -13,7 +13,7 @@ namespace Day3
             Dictionary<string, int> extra = new Dictionary<string, int>();
             Dictionary<string, ulong> allBags = new Dictionary<string, ulong>();
 
-            foreach (string rule in File.ReadAllLines(@"Input_Day7.txt"))
+            foreach (string rule in File.ReadAllLines(@"Inputs/Input_Day7.txt"))
             {
                 if (string.IsNullOrEmpty(rule) != true)
                 {

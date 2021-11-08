@@ -11,7 +11,7 @@ namespace Day3
         public static void Game()
         {
             File.WriteAllText(@"Output8.txt", string.Empty);
-            string[] inst = File.ReadAllLines(@"Input_Day8.txt");
+            string[] inst = File.ReadAllLines(@"Inputs/Input_Day8.txt");
 
             GetLoop(inst);
             FixProgram(inst);
@@ -86,7 +86,7 @@ namespace Day3
         static void GetLoop(string[] inst)
         {
             int acc = 0;
-            int[] runLines = new int[File.ReadAllLines(@"Input_Day8.txt").Length];
+            int[] runLines = new int[File.ReadAllLines(@"Inputs/Input_Day8.txt").Length];
             int order = 0;
             for (int i = 0; i < runLines.Length;)
             {

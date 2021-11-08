@@ -8,9 +8,9 @@ namespace Day3
     {
         public static void Board()
         {
-            int[] passes = new int[File.ReadAllLines(@"Input_Day5.txt").Length];
+            int[] passes = new int[File.ReadAllLines(@"Inputs/Input_Day5.txt").Length];
             int i = 0;
-            foreach (string line in File.ReadAllLines(@"Input_Day5.txt"))
+            foreach (string line in File.ReadAllLines(@"Inputs/Input_Day5.txt"))
             {
                 passes[i] = Convert.ToInt32(line.Replace('F','0').Replace('B','1').Replace('R','1').Replace('L','0'), 2);
                 i++;

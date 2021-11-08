@@ -8,9 +8,9 @@ namespace Day3
     {
         public static void Form()
         {
-            string[] data = new string[File.ReadAllLines(@"Input_Day6.txt").Length];
+            string[] data = new string[File.ReadAllLines(@"Inputs/Input_Day6.txt").Length];
             int i = 0;
-            foreach (string line in File.ReadAllLines(@"Input_Day6.txt"))
+            foreach (string line in File.ReadAllLines(@"Inputs/Input_Day6.txt"))
             {
                 if (string.IsNullOrEmpty(line))
                 {
