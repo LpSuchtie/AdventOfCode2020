@@ -74,6 +74,11 @@ namespace Day3
             int manhattanDist = posNum(x) + posNum(y);
             Console.WriteLine("Result Part 1: " + manhattanDist);
         }
+
+        static void Part2(string[] movements)
+        {
+            
+        }
         static int normalize(int value)
         {
             return (value % 360) + (value < 0 ? 360 : 0);
