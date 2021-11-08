@@ -11,10 +11,68 @@ namespace Day3
         public static void NavSys()
         {
             string[] movements = File.ReadAllLines(@"Input_Day12.txt");
+            Part1(movements);
+        }
+        static void Part1(string[] movements)
+        {
+            int value = 0;
             foreach (string line in movements)
             {
-                
+                value = int.Parse(line.Remove(0,1));
+                switch (line[0])
+                {
+                    case 'N':
+                    y = y + value;
+                        break;
+
+                    case 'S':
+                    y = y - value;
+                        break;
+
+                    case 'E':
+                    x = x + value;
+                        break;
+
+                    case 'W':
+                    x = x - value;
+                        break;
+
+                    case 'L':
+                    dir = normalize((dir - value));
+                        break;
+
+                    case 'R':
+                    dir = normalize((dir + value));
+                        break;
+
+                    case 'F':
+                    switch (dir)
+                    {
+                        case 0:
+                            x = x + value;
+                            break;
+                        
+                        case 90:
+                            y = y - value;
+                            break;
+
+                        case 180:
+                            x = x - value;
+                            break;
+
+                        case 270:
+                            y = y + value;
+                            break;
+
+                        default:
+                            Console.WriteLine("Error Direction: " + dir);
+                            break;
+                    }
+                        break;
+                }
             }
+            int manhattanDist = posNum(x) + posNum(y);
+            Console.WriteLine("Result Part 1: " + manhattanDist);
         }
         static int normalize(int value)
         {
