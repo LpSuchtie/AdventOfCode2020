@@ -51,6 +51,9 @@ namespace Day3 {
                     Day12.NavSys();
                     break;
 
+                case 13:
+                    Day13.Shuttle();
+                    break;
             }
         }
 
@@ -67,6 +70,7 @@ namespace Day3 {
             Console.WriteLine ("10. Day 10: Joltage Adapter");
             Console.WriteLine ("11. Day 11: Seating System");
             Console.WriteLine ("12. Day 12: Nav System");
+            Console.WriteLine ("13. Day 13: Shuttle Search");
             Console.WriteLine ("0. Exit");
             var result = Console.ReadLine ();
             return Convert.ToInt32 (result);
