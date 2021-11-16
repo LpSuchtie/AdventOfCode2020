@@ -462,3 +462,5 @@ obj/Debug/net5.0/Day3.dll
 obj/Debug/net5.0/Day3.pdb
 obj/Debug/net5.0/ref/Day3.dll
 bin/Debug/net5.0/ref/Day3.dll
+.github/
+*/workflows/
