@@ -62,7 +62,10 @@ namespace Day3 {
                 case 15:
                     Day15.Recitation();
                     break;
-                    case
+
+                case 16:
+                    Day16.Tickets();
+                    break;
             }
         }
 
@@ -82,6 +85,7 @@ namespace Day3 {
             Console.WriteLine ("13. Day 13: Shuttle Search");
             Console.WriteLine ("14. Day 14: Docking Data");
             Console.WriteLine ("15. Day 15: Rambunctious Recitation");
+            Console.WriteLine ("16. Day 16: Ticket Translation");
             Console.WriteLine ("0. Exit");
             var result = Console.ReadLine ();
             return Convert.ToInt32 (result);
